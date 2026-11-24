@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+google-genai
+fastembed
+python-dotenv

@@ -1,0 +1,822 @@
+﻿osm_id,osm_type,name,specialty,facility_type,phone,address,commune,website,latitude,longitude,source,collected_at
+495024912,node,Clinique Yamina,,doctors,,Rue Bouraada Aissa,,,36.7393487,3.3417553,OpenStreetMap,2026-11-24T17:08:12.727103+00:00
+535159830,node,,,clinic,,,,,36.8133738,2.9829936,OpenStreetMap,2026-11-24T17:08:12.727141+00:00
+582947296,node,Centre de Santé Diar Djemaa,,clinic,,,,,36.7293241,3.1266826,OpenStreetMap,2026-11-24T17:08:12.727150+00:00
+692711690,node,Polyclinique Verdier,,clinic,,,,,36.7948036,3.0471812,OpenStreetMap,2026-11-24T17:08:12.727156+00:00
+692711698,node,Dispensaire مستوصف,,clinic,,,بولوغين,,36.8019514,3.0351542,OpenStreetMap,2026-11-24T17:08:12.727162+00:00
+960913340,node,Centre de Soins,,clinic,,,,,36.7368526,3.0681684,OpenStreetMap,2026-11-24T17:08:12.727167+00:00
+975497791,node,,,clinic,,,,,36.6758677,2.9830609,OpenStreetMap,2026-11-24T17:08:12.727172+00:00
+991924533,node,عيادة القدس,,clinic,,شارع إيكزيوم,حيدرة,,36.7459479,3.0447579,OpenStreetMap,2026-11-24T17:08:12.727177+00:00
+1016041846,node,Polyclinique,,clinic,,,,,36.577146,3.0843292,OpenStreetMap,2026-11-24T17:08:12.727182+00:00
+1153109283,node,Etablissement public de santé de Birtouta,,clinic,,,Birtouta,,36.6462664,3.0009997,OpenStreetMap,2026-11-24T17:08:12.727238+00:00
+1482572903,node,Centre de santé baba ali,,clinic,,,,,36.6710764,3.0492729,OpenStreetMap,2026-11-24T17:08:12.727247+00:00
+1624189616,node,Polyclinique étatique,,clinic,,,,,36.7372017,3.2785626,OpenStreetMap,2026-11-24T17:08:12.727252+00:00
+1624220095,node,Clinique Lotus,,clinic,023861788,Rue Palestine,,,36.7424423,3.2768176,OpenStreetMap,2026-11-24T17:08:12.727257+00:00
+1626609828,node,Clinique CHOULI,,doctors,,,,,36.741753,3.2808011,OpenStreetMap,2026-11-24T17:08:12.727262+00:00
+1638908422,node,,,clinic,,,,,36.674644,3.0217446,OpenStreetMap,2026-11-24T17:08:12.727267+00:00
+1723000392,node,Centre de soin,,clinic,,Dely Ibrahim,,,36.7519907,2.9852772,OpenStreetMap,2026-11-24T17:08:12.727272+00:00
+1866344067,node,Dr Amhis - Gynecologue,gynaecology,doctors,,,,,36.747872,3.0402552,OpenStreetMap,2026-11-24T17:08:12.727278+00:00
+2292409074,node,Clinique hémodialyse,,clinic,,,,,36.7381555,3.2770076,OpenStreetMap,2026-11-24T17:08:12.727283+00:00
+2311168692,node,,general,doctors,,,الرويبة,,36.7418528,3.2793142,OpenStreetMap,2026-11-24T17:08:12.727288+00:00
+2311172497,node,Pediatre,paediatrics,doctors,,,,,36.7407029,3.2805024,OpenStreetMap,2026-11-24T17:08:12.727293+00:00
+2311172498,node,Pediatre,paediatrics,doctors,,,,,36.742521,3.2863633,OpenStreetMap,2026-11-24T17:08:12.727298+00:00
+2311172499,node,Pediatre (Dr Asari),paediatrics,doctors,,,Rouiba,,36.7397833,3.2783923,OpenStreetMap,2026-11-24T17:08:12.727303+00:00
+2311172500,node,Gynécologue,gynaecology,doctors,,,,,36.7396712,3.2749207,OpenStreetMap,2026-11-24T17:08:12.727308+00:00
+2311176628,node,Dermatologue,dermatology,doctors,,,,,36.7389361,3.2832838,OpenStreetMap,2026-11-24T17:08:12.727313+00:00
+2330446250,node,Clinique Djemai,,clinic,,,,,36.7427089,3.2767326,OpenStreetMap,2026-11-24T17:08:12.727317+00:00
+2340348476,node,Polyclinique de la Concorde,,clinic,,,,,36.7334969,3.0446822,OpenStreetMap,2026-11-24T17:08:12.727323+00:00
+2365710294,node,,,clinic,,,,,36.7228314,3.0148228,OpenStreetMap,2026-11-24T17:08:12.727328+00:00
+2449476994,node,,,clinic,,,,,36.7721007,3.0077599,OpenStreetMap,2026-11-24T17:08:12.727333+00:00
+2449487163,node,Gastrologue Bouchene,,doctors,,,,,36.7722262,3.0059489,OpenStreetMap,2026-11-24T17:08:12.727337+00:00
+2489309830,node,Clinique NEDJMA Bachdjarah,,clinic,,,,,36.7200656,3.1161234,OpenStreetMap,2026-11-24T17:08:12.727342+00:00
+2501813464,node,,,doctors,,,,,36.7208959,3.084333,OpenStreetMap,2026-11-24T17:08:12.727347+00:00
+2517846714,node,Centre d'Imagerie Médicale Jugurtha,,doctors,,,,,36.773827,3.0554966,OpenStreetMap,2026-11-24T17:08:12.727352+00:00
+2523149574,node,,otorhinolaryngology,doctors,,,الرويبة,,36.7376567,3.2827742,OpenStreetMap,2026-11-24T17:08:12.727357+00:00
+2523543331,node,Clinique AYA,,clinic,,,,,36.7064602,3.0664592,OpenStreetMap,2026-11-24T17:08:12.727363+00:00
+2528502044,node,POLYCLINIQUE,,clinic,,,,,36.6597504,3.2439319,OpenStreetMap,2026-11-24T17:08:12.727368+00:00
+2595951193,node,Laboratoire d'analyse Zemmouchi,,doctors,,,,,36.7419013,3.3413341,OpenStreetMap,2026-11-24T17:08:12.727373+00:00
+2680917904,node,Polyclinique et urgence 24 h - d'El Achour,,clinic,,,,,36.7321686,2.9923129,OpenStreetMap,2026-11-24T17:08:12.727378+00:00
+2683204579,node,Clinique privée,,clinic,,,,,36.7475217,3.1844565,OpenStreetMap,2026-11-24T17:08:12.727382+00:00
+2684789318,node,Médecin ORL,,doctors,,,,,36.7446557,3.1756132,OpenStreetMap,2026-11-24T17:08:12.727387+00:00
+2684821314,node,,,clinic,,,,,36.7381685,3.1771207,OpenStreetMap,2026-11-24T17:08:12.727392+00:00
+2704036467,node,Plomo,,doctors,,,,,36.7704617,3.0123815,OpenStreetMap,2026-11-24T17:08:12.727397+00:00
+2717123011,node,,,doctors,,,,,36.767092,3.0081963,OpenStreetMap,2026-11-24T17:08:12.727402+00:00
+2739030984,node,Médecin généraliste ZEDEK Sid Ahmed,general,doctors,,,,,36.6507999,3.3314394,OpenStreetMap,2026-11-24T17:08:12.727407+00:00
+2752469737,node,,,doctors,,,,,36.7680937,3.0092405,OpenStreetMap,2026-11-24T17:08:12.727411+00:00
+2762010281,node,Laboratoire d'analyses Mira,,doctors,,,,,36.792961,3.0544588,OpenStreetMap,2026-11-24T17:08:12.727416+00:00
+2777216929,node,Polyclinique Cervantes مستوصف سارفنتاس,,clinic,,,,,36.7490459,3.0651607,OpenStreetMap,2026-11-24T17:08:12.727421+00:00
+2784733450,node,Polyclinique Nacera Nounou,,clinic,,,,,36.754142,3.0601975,OpenStreetMap,2026-11-24T17:08:12.727426+00:00
+2784733532,node,Centre soins mentaux freres Badaoui,,clinic,,,,,36.7527516,3.0541599,OpenStreetMap,2026-11-24T17:08:12.727431+00:00
+2792056325,node,centre psycho-pedagogique HANANE,,doctors,,Chemin Gadouche Abdelkader,Hydra,,36.750503,3.0395793,OpenStreetMap,2026-11-24T17:08:12.727436+00:00
+2793508793,node,Clinique les Lilas,,clinic,,,,,36.7297373,3.0297428,OpenStreetMap,2026-11-24T17:08:12.727458+00:00
+2793796926,node,,,doctors,,,بئر خادم,,36.7249905,3.0527251,OpenStreetMap,2026-11-24T17:08:12.727464+00:00
+2798846033,node,مركز التصوير الطبي من ياكر,,doctors,023782828,Avenue Fellah Mohamed,,,36.7309385,3.0880366,OpenStreetMap,2026-11-24T17:08:12.727469+00:00
+2844168732,node,Al-Azhar,,clinic,,,,,36.762631,2.9822399,OpenStreetMap,2026-11-24T17:08:12.727474+00:00
+2844219207,node,Clinique du Parc,,clinic,,,,,36.7741353,3.0085935,OpenStreetMap,2026-11-24T17:08:12.727480+00:00
+2860028693,node,Clinique Dentaire,,clinic,,,,,36.7285753,3.0881713,OpenStreetMap,2026-11-24T17:08:12.727485+00:00
+2932591309,node,Laboratoire d'analyse,,doctors,,,,,36.7431882,3.2812489,OpenStreetMap,2026-11-24T17:08:12.727490+00:00
+2932591310,node,Laboratoire d'analyse,,doctors,,,,,36.7437471,3.2808841,OpenStreetMap,2026-11-24T17:08:12.727494+00:00
+2955700948,node,Pédiatre,paediatrics,doctors,,,,,36.7641759,2.9506633,OpenStreetMap,2026-11-24T17:08:12.727509+00:00
+2963379786,node,,,doctors,,,,,36.7758267,3.0110211,OpenStreetMap,2026-11-24T17:08:12.727514+00:00
+2964720645,node,centre laser dermatologique,,doctors,,,,,36.7917478,3.0520085,OpenStreetMap,2026-11-24T17:08:12.727519+00:00
+2964721083,node,Ladjali,,doctors,,,,,36.7910535,3.0522728,OpenStreetMap,2026-11-24T17:08:12.727524+00:00
+2968139849,node,Cabinet d'ophtalmologie,ophthalmology,doctors,+21321235720,,,,36.7642859,3.0562178,OpenStreetMap,2026-11-24T17:08:12.727529+00:00
+2989734009,node,,,doctors,,,,,36.7899916,3.0601169,OpenStreetMap,2026-11-24T17:08:12.727534+00:00
+2994050367,node,,,doctors,,,الدار البيضاء,,36.7223689,3.2111312,OpenStreetMap,2026-11-24T17:08:12.727539+00:00
+3009964310,node,Etablissement public de santé de proximité,,clinic,,,,,36.7892631,3.0585724,OpenStreetMap,2026-11-24T17:08:12.727545+00:00
+3023227819,node,استعجالات امراض القلب,,doctors,,,,,36.7361373,3.1054773,OpenStreetMap,2026-11-24T17:08:12.727551+00:00
+3023227872,node,,nephrology;dialysis,doctors,,,,,36.7362709,3.1052099,OpenStreetMap,2026-11-24T17:08:12.727556+00:00
+3051706322,node,Centre Médico-Social Hassiba Ben Bouali,,doctors,,,,,36.7679655,3.0563136,OpenStreetMap,2026-11-24T17:08:12.727561+00:00
+3062164075,node,Clinique Sidi Yahia,,clinic,,,,,36.7358833,3.0295291,OpenStreetMap,2026-11-24T17:08:12.727565+00:00
+3064995982,node,Laboratoire d’analyses médicales,,doctors,,,,,36.7910683,3.0568193,OpenStreetMap,2026-11-24T17:08:12.727570+00:00
+3065002419,node,Belkheir Badreddine,,doctors,,,,,36.7640924,3.0518026,OpenStreetMap,2026-11-24T17:08:12.727575+00:00
+3105256902,node,Laboratoire d'analyses médicales,,doctors,,,Bordj El Kiffan,,36.7487458,3.1931097,OpenStreetMap,2026-11-24T17:08:12.727580+00:00
+3122559074,node,بساي,,doctors,+21321970697,,,,36.7903589,3.0475518,OpenStreetMap,2026-11-24T17:08:12.727585+00:00
+3156575512,node,مخبر التحاليل الطبية,,doctors,+21321960802,,,,36.789292,3.0505771,OpenStreetMap,2026-11-24T17:08:12.727590+00:00
+3163076366,node,Laboratoire D'analyse médicales,,doctors,021247432,Cité 1200 Logements,Bab Ezzouar,,36.7180837,3.194035,OpenStreetMap,2026-11-24T17:08:12.727595+00:00
+3176620751,node,بدائل العلاج العراب,,doctors,,,,,36.7350965,3.2332324,OpenStreetMap,2026-11-24T17:08:12.727600+00:00
+3195504643,node,IRM Beni Mesous,,doctors,,,,,36.7787941,2.9802547,OpenStreetMap,2026-11-24T17:08:12.727605+00:00
+3270386461,node,,,doctors,,,,,36.7895206,3.0171791,OpenStreetMap,2026-11-24T17:08:12.727611+00:00
+3280641227,node,Azroro Farid,,doctors,,,,,36.7469397,3.1893821,OpenStreetMap,2026-11-24T17:08:12.727616+00:00
+3280641693,node,Cybele,,clinic,,,,,36.7473905,3.1888948,OpenStreetMap,2026-11-24T17:08:12.727621+00:00
+3284284593,node,Centre de Soins,,clinic,,,,,36.7904583,3.2907637,OpenStreetMap,2026-11-24T17:08:12.727626+00:00
+3303845978,node,Clinique hémodialyse,,clinic,,,,,36.7415369,3.2823447,OpenStreetMap,2026-11-24T17:08:12.727631+00:00
+3318716307,node,Dr Youssef médecin generaliste,,doctors,,,,,36.7123868,3.21292,OpenStreetMap,2026-11-24T17:08:12.727681+00:00
+3318730965,node,Dr Sadoun gynécologue طبيبة نسائية الدكتورة سعدون,gynaecology,doctors,,,,,36.7134008,3.2128917,OpenStreetMap,2026-11-24T17:08:12.727710+00:00
+3320491183,node,pervie,,doctors,,,,,36.7786597,3.2462547,OpenStreetMap,2026-11-24T17:08:12.727717+00:00
+3385998021,node,Cabinet Médical de Pédiatrie,,doctors,,,,,36.7051652,3.0987936,OpenStreetMap,2026-11-24T17:08:12.727723+00:00
+3402021842,node,هبة,,clinic,,,برج البحري,,36.7946611,3.2511237,OpenStreetMap,2026-11-24T17:08:12.727790+00:00
+3488417743,node,Cabinet Dermatologie Dr. Talaa,,doctors,,,,,36.709485,3.0933877,OpenStreetMap,2026-11-24T17:08:12.727801+00:00
+3506202296,node,Boudouani pédiatre,,doctors,,,,,36.7189997,3.1113251,OpenStreetMap,2026-11-24T17:08:12.727808+00:00
+3546663160,node,Bouzid noireddin GAS,,doctors,,,,,36.6976264,3.0783623,OpenStreetMap,2026-11-24T17:08:12.727924+00:00
+3550135812,node,,,clinic,,,,,36.697514,3.0782868,OpenStreetMap,2026-11-24T17:08:12.727932+00:00
+3554267769,node,Dr Harkouk UROLOGUE,,doctors,,Cité El Hayat,,,36.703907,3.0935936,OpenStreetMap,2026-11-24T17:08:12.727937+00:00
+3570037793,node,Gynécologue,,doctors,,,,,36.7916953,3.0536442,OpenStreetMap,2026-11-24T17:08:12.727942+00:00
+3573422269,node,,,clinic,,,,,36.7322573,3.1482717,OpenStreetMap,2026-11-24T17:08:12.727949+00:00
+3579822493,node,Gynécologue,gynaecology,doctors,021969828,,,,36.7896556,3.060749,OpenStreetMap,2026-11-24T17:08:12.727954+00:00
+3602450026,node,عيادة الصنوبر,,clinic,,,,,36.7223438,3.1396076,OpenStreetMap,2026-11-24T17:08:12.727959+00:00
+3625234637,node,,,clinic,,,,,36.714066,2.9986962,OpenStreetMap,2026-11-24T17:08:12.727963+00:00
+3629546946,node,Kinésithérapie,,doctors,,,Baba Hassen,,36.695089,2.9703911,OpenStreetMap,2026-11-24T17:08:12.727968+00:00
+3635154025,node,Laboratoire d'analyse médicale Dr Daoudi,,doctors,,,,,36.7395067,2.9507131,OpenStreetMap,2026-11-24T17:08:12.727972+00:00
+3647359713,node,"Polyclinique Ounissi Akli ""Sidi M'Hamed"" -Urologie-",,clinic,,,,,36.7463562,3.0566596,OpenStreetMap,2026-11-24T17:08:12.727977+00:00
+3668592888,node,,ophthalmology,doctors,,,,,36.8134751,2.969302,OpenStreetMap,2026-11-24T17:08:12.727981+00:00
+3676402522,node,Chirurgie cerveau et colonne vertébrale,,doctors,,,,,36.7915528,3.0521514,OpenStreetMap,2026-11-24T17:08:12.727986+00:00
+3691230129,node,,,doctors,,,,,36.7916984,3.2376822,OpenStreetMap,2026-11-24T17:08:12.727990+00:00
+3697327953,node,laboratoire d'analyses,,doctors,,,,,36.7849759,3.0133622,OpenStreetMap,2026-11-24T17:08:12.727994+00:00
+3700873856,node,ORL,,doctors,,,,,36.7143257,2.9979426,OpenStreetMap,2026-11-24T17:08:12.727998+00:00
+3709251098,node,,,doctors,,,القبة,,36.7211429,3.1001599,OpenStreetMap,2026-11-24T17:08:12.728003+00:00
+3764904549,node,EPSP,,clinic,,,,,36.7912801,3.0598829,OpenStreetMap,2026-11-24T17:08:12.728008+00:00
+3764921204,node,Polyclinique MIRA,,clinic,,,,,36.7921826,3.0566849,OpenStreetMap,2026-11-24T17:08:12.728013+00:00
+3771802621,node,Centre de prélèvement,,doctors,,,,,36.7791577,2.9807736,OpenStreetMap,2026-11-24T17:08:12.728017+00:00
+3771802622,node,Service d'immunologie médical,,doctors,,,,,36.7790634,2.9808567,OpenStreetMap,2026-11-24T17:08:12.728023+00:00
+3771803634,node,des analyses médicales,,doctors,,,,,36.7786515,3.2488752,OpenStreetMap,2026-11-24T17:08:12.728028+00:00
+3771807062,node,services de biologie médical,,doctors,,,,,36.7792897,2.9806564,OpenStreetMap,2026-11-24T17:08:12.728032+00:00
+3771826097,node,Analyses médicales Hôpital Béni Messous,,doctors,,,,,36.7806628,2.9815944,OpenStreetMap,2026-11-24T17:08:12.728037+00:00
+3785139824,node,Laboratoire d'analyses médical,,doctors,0549602565,Cité Fatma Nsoumer,Dar El Beïda,,36.7210996,3.2125706,OpenStreetMap,2026-11-24T17:08:12.728085+00:00
+3790670832,node,Dr N.Benouniche Chirurgien urologue,,doctors,021 55 65 23,Cité Said Ramdane 224lgts,Ain-Naadja,,36.6937023,3.0787663,OpenStreetMap,2026-11-24T17:08:12.728093+00:00
+3795551503,node,polyclinique Ain naadja,,clinic,,,,,36.7082836,3.0824609,OpenStreetMap,2026-11-24T17:08:12.728099+00:00
+3795553962,node,pédiatre,,doctors,,,,,36.7071336,3.0826813,OpenStreetMap,2026-11-24T17:08:12.728103+00:00
+3902731163,node,analyse médicale le rond point.,,doctors,,,,,36.7383814,3.1007347,OpenStreetMap,2026-11-24T17:08:12.728107+00:00
+3953641268,node,docteur HZaidi cardiologue,cardiology,doctors,,,,,36.7305241,3.1481186,OpenStreetMap,2026-11-24T17:08:12.728112+00:00
+4001152680,node,Gynécologue,,doctors,,,,,36.6440152,2.9987041,OpenStreetMap,2026-11-24T17:08:12.728143+00:00
+4010626451,node,مركز طبي متعدد الخدمات,,clinic,,,براقي,,36.6784946,3.0910346,OpenStreetMap,2026-11-24T17:08:12.728150+00:00
+4022986101,node,,,clinic,,,,,36.8127062,3.0110934,OpenStreetMap,2026-11-24T17:08:12.728155+00:00
+4054152490,node,Centre De Santé Ben Zarga,,clinic,,,,,36.7670372,3.2510341,OpenStreetMap,2026-11-24T17:08:12.728160+00:00
+4054192816,node,عيادة متعددة الخدمات,,clinic,,,,,36.7790924,3.2345204,OpenStreetMap,2026-11-24T17:08:12.728165+00:00
+4058186921,node,Dr. Rechoum Yahia,,doctors,021878962,,,,36.7327478,3.2323587,OpenStreetMap,2026-11-24T17:08:12.728170+00:00
+4069410329,node,Polyclinique Hamiz 2,,clinic,,Route Nationale 5,,,36.730514,3.2372089,OpenStreetMap,2026-11-24T17:08:12.728174+00:00
+4089713550,node,Clinique de dialyse,,clinic,,,,,36.7477382,3.0392695,OpenStreetMap,2026-11-24T17:08:12.728178+00:00
+4092084435,node,Ophtalmologue,,doctors,,,,,36.7597233,3.0558168,OpenStreetMap,2026-11-24T17:08:12.728183+00:00
+4123678468,node,MGAPC,,clinic,,,,,36.7210015,3.1797778,OpenStreetMap,2026-11-24T17:08:12.728187+00:00
+4138436289,node,Gastrologue hépatologie,,doctors,,,,,36.781724,3.2480034,OpenStreetMap,2026-11-24T17:08:12.728268+00:00
+4138475089,node,,ophthalmology,doctors,,,,,36.781717,3.2480889,OpenStreetMap,2026-11-24T17:08:12.728279+00:00
+4138527990,node,,radiology,doctors,,,,,36.7816885,3.2482593,OpenStreetMap,2026-11-24T17:08:12.728284+00:00
+4169433390,node,service EFR ( exploration fonctionnelle respiratoire),,clinic,,,,,36.7774424,2.9810349,OpenStreetMap,2026-11-24T17:08:12.728289+00:00
+4169434090,node,urgence pneumologie,,clinic,,,,,36.7774822,2.9808596,OpenStreetMap,2026-11-24T17:08:12.728294+00:00
+4170340589,node,service gynécologie obstétrique (durando),gynaecology,clinic,,,,,36.7917843,3.0534912,OpenStreetMap,2026-11-24T17:08:12.728299+00:00
+4170340992,node,الطبيبة النسائية الدكتورة بن موفق,,doctors,,,المحمدية,,36.7311867,3.1725352,OpenStreetMap,2026-11-24T17:08:12.728322+00:00
+4170341989,node,cardiologue طبيب القلب,cardiology,doctors,,,المحمدية,,36.7285412,3.1500357,OpenStreetMap,2026-11-24T17:08:12.728329+00:00
+4171784042,node,Laboratoire d'analyse médicale CNAS CASNOS,,clinic,,,الجزائر,,36.7651561,3.0543823,OpenStreetMap,2026-11-24T17:08:12.728334+00:00
+4182009470,node,EPSP Khmissa,,clinic,,,,,36.764406,3.0556182,OpenStreetMap,2026-11-24T17:08:12.728339+00:00
+4189393492,node,مصحة النهضة,,clinic,,Vers N1,,,36.7307591,3.0468896,OpenStreetMap,2026-11-24T17:08:12.728343+00:00
+4189893993,node,"Clinique Ophtalmologiste, Docteur BENYAHYA LOUNI ZAHIA",,clinic,"+213795938484, +213559201493",Rue Kious Mohamed,,,36.7170777,3.0489303,OpenStreetMap,2026-11-24T17:08:12.728348+00:00
+4197306591,node,CTS (centre de transfusion sanguine),traditional_chinese_medicine,clinic,,,,,36.7792202,2.9839456,OpenStreetMap,2026-11-24T17:08:12.728353+00:00
+4197329490,node,d'hémodialyse,,clinic,,,,,36.7796257,2.9793684,OpenStreetMap,2026-11-24T17:08:12.728358+00:00
+4197345591,node,service rhumatologie,rheumatology,clinic,,,,,36.779399,2.9800873,OpenStreetMap,2026-11-24T17:08:12.728362+00:00
+4197348790,node,consultation ORL,,clinic,,,,,36.7786796,2.9823194,OpenStreetMap,2026-11-24T17:08:12.728368+00:00
+4197348891,node,urgence ophtalmologique,,clinic,,,,,36.7785242,2.982288,OpenStreetMap,2026-11-24T17:08:12.728385+00:00
+4197360989,node,urgence CCI,,clinic,,,,,36.7808617,2.9835854,OpenStreetMap,2026-11-24T17:08:12.728391+00:00
+4197361189,node,consultations pneumologie matiben (CPPA),,clinic,,,,,36.7786387,2.9804734,OpenStreetMap,2026-11-24T17:08:12.728396+00:00
+4202106953,node,Morgue,,clinic,,,,,36.7793628,2.9788101,OpenStreetMap,2026-11-24T17:08:12.728400+00:00
+4202106954,node,service d'anatomie pathologique,,clinic,,,,,36.7792756,2.9784982,OpenStreetMap,2026-11-24T17:08:12.728407+00:00
+4202106970,node,service de médecine interne,internal,clinic,,,,,36.7792965,2.9810053,OpenStreetMap,2026-11-24T17:08:12.728411+00:00
+4205968489,node,Médical MC,,doctors,+21321734973,Rue Ferroukhi Mustapha,,,36.7693213,3.0561999,OpenStreetMap,2026-11-24T17:08:12.728416+00:00
+4225743134,node,CCI,,clinic,,,,,36.780673,2.983198,OpenStreetMap,2026-11-24T17:08:12.728420+00:00
+4225746301,node,"Service de Pédiatrie ""B""",paediatrics,clinic,,,,,36.7800135,2.9830854,OpenStreetMap,2026-11-24T17:08:12.728424+00:00
+4225746489,node,"Service de Pédiatrie ""A""",,clinic,,,,,36.7804732,2.983249,OpenStreetMap,2026-11-24T17:08:12.728429+00:00
+4233526791,node,,,clinic,,Rue Selmane Lakhdar,,,36.732295,3.1339465,OpenStreetMap,2026-11-24T17:08:12.728433+00:00
+4236725990,node,laboratoire analyse médical,,clinic,+21323835353,Cité 5 juillet Bts D94,,,36.7197418,3.197512,OpenStreetMap,2026-11-24T17:08:12.728439+00:00
+4238750201,node,Cabinet médecine interne Bouroubi,,doctors,+21323330073,,,,36.7216056,2.9948749,OpenStreetMap,2026-11-24T17:08:12.728444+00:00
+4254337797,node,Gynecologue - Obstétricien,,doctors,05 52432329,Rue Agoulmine Nacer,Vieux Kouba,,36.7279471,3.0773447,OpenStreetMap,2026-11-24T17:08:12.728449+00:00
+4254356590,node,Dermatologue Dr ALOUI,,doctors,021 638 425,Boulevard Krim Belkacem,,,36.76912,3.047624,OpenStreetMap,2026-11-24T17:08:12.728453+00:00
+4254528390,node,Loucif Pneumologue,pulmonology,doctors,,,Chéraga,,36.7694007,2.9584405,OpenStreetMap,2026-11-24T17:08:12.728459+00:00
+4268625108,node,,gynaecology,doctors,,,,,36.7197623,3.1944599,OpenStreetMap,2026-11-24T17:08:12.728463+00:00
+4273617426,node,Chirurgie urologique dr. Habachi,,doctors,023835566,,Bab Ezzouar,,36.7190913,3.1941921,OpenStreetMap,2026-11-24T17:08:12.728468+00:00
+4273619516,node,Médecin généraliste,,doctors,,,,,36.7190827,3.194277,OpenStreetMap,2026-11-24T17:08:12.728472+00:00
+4278484492,node,Gynécologue,,doctors,,,,,36.7295478,3.3456571,OpenStreetMap,2026-11-24T17:08:12.728477+00:00
+4278517892,node,Genyco,gynaecology,doctors,,,,,36.7413871,3.3411937,OpenStreetMap,2026-11-24T17:08:12.728481+00:00
+4278565491,node,Laboratoire d'analyse medical,,doctors,,,,,36.7393804,3.3393962,OpenStreetMap,2026-11-24T17:08:12.728486+00:00
+4295692996,node,specialist ORL,,doctors,,,,,36.7406375,2.996475,OpenStreetMap,2026-11-24T17:08:12.728490+00:00
+4295732989,node,Médecin Sport,,doctors,,,,,36.7862054,3.0387968,OpenStreetMap,2026-11-24T17:08:12.728494+00:00
+4300207846,node,Clinique Telia Khati,,clinic,,,,,36.7326045,3.0411759,OpenStreetMap,2026-11-24T17:08:12.728559+00:00
+4303213189,node,Dr Mansouri Gynecologue,,doctors,+213661544324,Colonel Lotfi Aissat Mustapha Reghaia,,,36.7258682,3.3328769,OpenStreetMap,2026-11-24T17:08:12.728564+00:00
+4306593589,node,URGENCE MÉDICALE,,clinic,,,,,36.719749,3.1975331,OpenStreetMap,2026-11-24T17:08:12.728569+00:00
+4309177490,node,cabinet du Dr Amrani,,doctors,,,,,36.7200559,3.1756328,OpenStreetMap,2026-11-24T17:08:12.728573+00:00
+4337281997,node,,psychology,doctors,,,,,36.760848,3.0123249,OpenStreetMap,2026-11-24T17:08:12.728579+00:00
+4344231395,node,Urologue,,doctors,,الشهيد علي سعلاوي,,,36.7824645,3.2489511,OpenStreetMap,2026-11-24T17:08:12.728584+00:00
+4344698929,node,oulad,,clinic,,,,,36.6990237,3.2864265,OpenStreetMap,2026-11-24T17:08:12.728588+00:00
+4344816692,node,Dr M Bellili,,doctors,023815418,,,,36.7387239,3.1929214,OpenStreetMap,2026-11-24T17:08:12.728592+00:00
+4351676589,node,عظمية توفالي,,clinic,,,,,36.7659196,3.0250377,OpenStreetMap,2026-11-24T17:08:12.728597+00:00
+4355358694,node,Cardiologie,cardiology,doctors,,,,,36.7334634,3.1846131,OpenStreetMap,2026-11-24T17:08:12.728601+00:00
+4355457191,node,عيادة الدوزي الطبية cabinet médical Douzi,,doctors,,,,,36.7335878,3.1841024,OpenStreetMap,2026-11-24T17:08:12.728605+00:00
+4357959293,node,Pédiatrie Djoudi,,doctors,,,,,36.6967175,2.9726503,OpenStreetMap,2026-11-24T17:08:12.728610+00:00
+4386499189,node,Ophtalmologie,,doctors,,vers Dergana,,,36.7763952,3.2600327,OpenStreetMap,2026-11-24T17:08:12.728613+00:00
+4389444107,node,Clinique Sidi Youcef,,clinic,,,,,36.7847154,2.9645251,OpenStreetMap,2026-11-24T17:08:12.728618+00:00
+4400432657,node,Docteur Bennouna Médecin spécialiste,,doctors,,Bab-ezzouar,Alger,,36.7193666,3.194002,OpenStreetMap,2026-11-24T17:08:12.728622+00:00
+4401886208,node,Dr Oughlis Madjid,,doctors,,cite 08 mai 45 Bt 34 App 01,,,36.7353507,3.1906384,OpenStreetMap,2026-11-24T17:08:12.728626+00:00
+4422564793,node,clinique dey,,doctors,,,,,36.7324902,3.1120383,OpenStreetMap,2026-11-24T17:08:12.728631+00:00
+4423349218,node,,,clinic,,,,,36.8057926,3.0407023,OpenStreetMap,2026-11-24T17:08:12.728635+00:00
+4426092492,node,Cardiologue,cardiology,doctors,,,,,36.7436114,3.3428494,OpenStreetMap,2026-11-24T17:08:12.728639+00:00
+4433281302,node,Dr Ifrah,,doctors,,,,,36.7763795,3.2600691,OpenStreetMap,2026-11-24T17:08:12.728653+00:00
+4434732755,node,O.R.L,,doctors,,,,,36.7360248,3.1855086,OpenStreetMap,2026-11-24T17:08:12.728658+00:00
+4443587989,node,Centre d'imagerie medicale dr.BENBLIDIA,,doctors,,,,,36.7249334,3.0527443,OpenStreetMap,2026-11-24T17:08:12.728662+00:00
+4445483889,node,,,doctors,,,,,36.7010181,3.0911483,OpenStreetMap,2026-11-24T17:08:12.728666+00:00
+4456579091,node,,,clinic,,,الحراش,,36.7047136,3.123965,OpenStreetMap,2026-11-24T17:08:12.728671+00:00
+4456612989,node,,,clinic,,,,,36.7030327,3.1235187,OpenStreetMap,2026-11-24T17:08:12.728675+00:00
+4456613189,node,,,clinic,,,,,36.7028247,3.1238989,OpenStreetMap,2026-11-24T17:08:12.728679+00:00
+4462486127,node,,,clinic,,,,,36.6675755,3.1692775,OpenStreetMap,2026-11-24T17:08:12.728683+00:00
+4463090790,node,,,doctors,,,,,36.7038868,3.1234015,OpenStreetMap,2026-11-24T17:08:12.728687+00:00
+4467506805,node,Analise médical,,doctors,,,,,36.7294894,3.2375943,OpenStreetMap,2026-11-24T17:08:12.728692+00:00
+4485413240,node,Yhalasso Cabines Brahimi,,doctors,,,,,36.7413602,3.0408203,OpenStreetMap,2026-11-24T17:08:12.728696+00:00
+4492558427,node,Achaïbou la santé à domicile,,doctors,,,,,36.7162152,3.1977572,OpenStreetMap,2026-11-24T17:08:12.728700+00:00
+4496286739,node,,otorhinolaryngology,doctors,,,,,36.7194649,3.1957187,OpenStreetMap,2026-11-24T17:08:12.728705+00:00
+4500038889,node,عيادة أمراض الكلى وتصفية الدم,nephrology;dialysis;blood_check,clinic,+213 23777597,طريق فرنان حنافي,حسين داي,https://www.dialamine.com/,36.7335877,3.1004135,OpenStreetMap,2026-11-24T17:08:12.728712+00:00
+4508671189,node,Pédiathre,,doctors,,,,,36.7107978,2.9967911,OpenStreetMap,2026-11-24T17:08:12.728716+00:00
+4509152289,node,,,doctors,,,,,36.6900996,2.9710607,OpenStreetMap,2026-11-24T17:08:12.728721+00:00
+4512529391,node,طبيبة عيون,ophthalmology,doctors,+213 23 81 76 85,"cite 8 mai 45,Bt.18B N° 1 Bab Ezzouar sorécal",Bab Ezzouar,,36.7330349,3.1855074,OpenStreetMap,2026-11-24T17:08:12.728725+00:00
+4524499889,node,Clinique Hassaine Ali,,clinic,,,,,36.7281185,3.3390297,OpenStreetMap,2026-11-24T17:08:12.728730+00:00
+4553100189,node,Laboratoire d'analyse,,doctors,,,,,36.7245362,3.0884102,OpenStreetMap,2026-11-24T17:08:12.728734+00:00
+4555565264,node,,,doctors,,,,,36.7155064,2.9974045,OpenStreetMap,2026-11-24T17:08:12.728738+00:00
+4556543889,node,Centre Medico Social,,clinic,,الهواورة,سيدي موسى,,36.6214241,3.1089021,OpenStreetMap,2026-11-24T17:08:12.728743+00:00
+4562269589,node,Gynéco,,clinic,,,,,36.7731376,3.3019341,OpenStreetMap,2026-11-24T17:08:12.728756+00:00
+4572933689,node,Dr Moustefai dermatologue,,doctors,,,,,36.714287,2.9979606,OpenStreetMap,2026-11-24T17:08:12.728761+00:00
+4573666189,node,Dermatologue,,doctors,,,,,36.7157587,3.0006133,OpenStreetMap,2026-11-24T17:08:12.728765+00:00
+4577539462,node,عيادة الدكتور صاري,,clinic,,,,,36.7486653,3.0396556,OpenStreetMap,2026-11-24T17:08:12.728770+00:00
+4581968189,node,ESP Chéraga,,clinic,,,Chéraga,,36.7576647,2.9505378,OpenStreetMap,2026-11-24T17:08:12.728775+00:00
+4585234131,node,عيادة الوادي,,clinic,,,الأبيار,,36.7588132,3.0249299,OpenStreetMap,2026-11-24T17:08:12.728779+00:00
+4587488791,node,Mahjouj ihcen,,clinic,,,,,36.7701084,3.0045586,OpenStreetMap,2026-11-24T17:08:12.728784+00:00
+4587505595,node,Cabinet spécialisé en orthopédie traumatologie /Dr BELDJOUDI,,doctors,0771445803,cité 280 logements ouled el hadj la cnep,Les Eucalyptus,,36.6624303,3.1568167,OpenStreetMap,2026-11-24T17:08:12.728788+00:00
+4593508990,node,Docteur Bellateche Pédiatre,,doctors,,,,,36.7707138,2.9579954,OpenStreetMap,2026-11-24T17:08:12.728793+00:00
+4593535192,node,Dr Gacem généraliste,,doctors,,,,,36.6454842,2.9986519,OpenStreetMap,2026-11-24T17:08:12.728797+00:00
+4593550289,node,Docteur Bouabdelah Pneumologue,,doctors,,,,,36.7705162,2.9581888,OpenStreetMap,2026-11-24T17:08:12.728802+00:00
+4616644395,node,Clinique Ahlam,,clinic,,,,,36.7913197,3.2927644,OpenStreetMap,2026-11-24T17:08:12.728806+00:00
+4621995389,node,Dr AHMED MADANI ORTHOPEDIC,,doctors,021562352,Rue Mourad Ferhat,,,36.7205386,3.045404,OpenStreetMap,2026-11-24T17:08:12.728811+00:00
+4624248594,node,Chirurgien dentiste Dr BOUGUERA,,doctors,00213770658392,,,,36.7204865,3.1817579,OpenStreetMap,2026-11-24T17:08:12.728816+00:00
+4624286492,node,Traumatologie Orthopédie,,doctors,0561150048,,,,36.7233697,3.2088689,OpenStreetMap,2026-11-24T17:08:12.728820+00:00
+4629291169,node,Clinique Les Sources,,clinic,,,,,36.7371853,3.0591335,OpenStreetMap,2026-11-24T17:08:12.728824+00:00
+4648488891,node,Clinique dentaire,,doctors,,,,,36.718665,3.1947337,OpenStreetMap,2026-11-24T17:08:12.728828+00:00
+4649765589,node,Dr Boukhezar pneumo allergologue,,doctors,,,,,36.7154562,3.0015407,OpenStreetMap,2026-11-24T17:08:12.728833+00:00
+4678216390,node,LABORATOIRE MÉDICALE KORTEBY ALLAL NAWEL,,doctors,021 92 63 13,"130, Av Ali Khodja - EL BIAR",,,36.7690504,3.0257947,OpenStreetMap,2026-11-24T17:08:12.728837+00:00
+4689061016,node,,,clinic,,,,,36.611454,3.1261205,OpenStreetMap,2026-11-24T17:08:12.728841+00:00
+4706549890,node,Pédiatre,,doctors,,,,,36.7338667,2.991905,OpenStreetMap,2026-11-24T17:08:12.728846+00:00
+4708023637,node,Pédiatre,,doctors,,,,,36.7413191,2.9956553,OpenStreetMap,2026-11-24T17:08:12.728850+00:00
+4710281492,node,Centre de cardiologie El Achour,cardiology,doctors,,lotissement H,,,36.7299522,2.9920482,OpenStreetMap,2026-11-24T17:08:12.728855+00:00
+4715561390,node,مخبر التحاليل الطبية دكتور حسان,,doctors,,,,,36.7763963,3.306067,OpenStreetMap,2026-11-24T17:08:12.728859+00:00
+4724998590,node,Dr Derri,ophthalmology,doctors,0021321558149,"Cité des 630 logements, Bat. D5, Numéro 3. Aïn Naadja",,,36.6982357,3.0776494,OpenStreetMap,2026-11-24T17:08:12.728865+00:00
+4742496721,node,,,doctors,,cité 95 logements,,,36.7459137,2.9528365,OpenStreetMap,2026-11-24T17:08:12.728869+00:00
+4743089321,node,عيادة وادي حيدرة لطب العيون,,doctors,,وادي حيدرة,حيدرة,,36.755019,3.029154,OpenStreetMap,2026-11-24T17:08:12.728874+00:00
+4744900822,node,,,doctors,,cité les asphodèles,,,36.7614963,3.0104682,OpenStreetMap,2026-11-24T17:08:12.728878+00:00
+4748880925,node,,,doctors,,,,,36.7071454,2.9902861,OpenStreetMap,2026-11-24T17:08:12.728882+00:00
+4752414321,node,,,doctors,,sonatiba,,,36.7034046,3.0963883,OpenStreetMap,2026-11-24T17:08:12.728887+00:00
+4757565122,node,جراحة العين باليزر,,clinic,021603378,وادي حيدرة,حيدرة,http://www.cliniquevalhydra.com,36.7549028,3.0292143,OpenStreetMap,2026-11-24T17:08:12.728892+00:00
+4822390422,node,سكفالي طب الداخلي,,doctors,,,,,36.7170454,3.0492558,OpenStreetMap,2026-11-24T17:08:12.728911+00:00
+4826226623,node,,,doctors,,Rue Al Khouarizmi Mohamed,,,36.735062,3.0838664,OpenStreetMap,2026-11-24T17:08:12.728915+00:00
+4863845921,node,Dr Mahiddine Yazid,cardiology,doctors,+21323361171,Cité des frères Boukhlil (250 Logts) Bt E1 N°1 Chéraga Alger,,,36.7706667,2.9558216,OpenStreetMap,2026-11-24T17:08:12.728920+00:00
+4882604226,node,Audin عيادة أودان,,clinic,,,,,36.7702402,3.0561782,OpenStreetMap,2026-11-24T17:08:12.728925+00:00
+4883338221,node,مركز تصفية الدم,,clinic,,,,,36.7115387,3.2136995,OpenStreetMap,2026-11-24T17:08:12.728933+00:00
+4883338321,node,مركز تصفية الدم,,clinic,,,,,36.7123509,3.2132069,OpenStreetMap,2026-11-24T17:08:12.728937+00:00
+4888317622,node,AIT KACI ARAB Nadia GEN,,clinic,,,,,36.7062887,3.0806056,OpenStreetMap,2026-11-24T17:08:12.728942+00:00
+4890006321,node,Badji Fatima,,doctors,+21321896989,,,,36.7281658,3.1757721,OpenStreetMap,2026-11-24T17:08:12.728947+00:00
+4901601823,node,,,doctors,,,الجزائر,,36.7774819,3.0581473,OpenStreetMap,2026-11-24T17:08:12.728951+00:00
+4901615321,node,Yekhlef Interniste,,doctors,,,الجزائر,,36.7770031,3.0564347,OpenStreetMap,2026-11-24T17:08:12.728967+00:00
+4903806053,node,,,doctors,,,,,36.7310947,3.0614622,OpenStreetMap,2026-11-24T17:08:12.728972+00:00
+4914702421,node,,,doctors,,,,,36.7637414,3.0481326,OpenStreetMap,2026-11-24T17:08:12.728976+00:00
+4920168421,node,الدكتور موالفي طبيب القلب,,doctors,,Rue Chikh El Mokrani,,,36.5599342,3.1679998,OpenStreetMap,2026-11-24T17:08:12.728981+00:00
+4929668421,node,Bouzar Cardiologue بوزار طب القلب,cardiology,doctors,,,,,36.7553437,3.0581455,OpenStreetMap,2026-11-24T17:08:12.728985+00:00
+4929668422,node,Aouali Endo-Diabetologie أوالي طب الغدد والسكري,diabetology,doctors,,,,,36.755861,3.0578017,OpenStreetMap,2026-11-24T17:08:12.728989+00:00
+4929668423,node,موزالي طب القلب,cardiology,doctors,,,,,36.7546456,3.0589929,OpenStreetMap,2026-11-24T17:08:12.728994+00:00
+4929668424,node,برغوت طب الداخلي,internal,doctors,,,,,36.7548634,3.0593497,OpenStreetMap,2026-11-24T17:08:12.728998+00:00
+4929668521,node,Bouraoui Généraliste بوراوي طب عام,general,doctors,,,,,36.7539286,3.062266,OpenStreetMap,2026-11-24T17:08:12.729003+00:00
+4929668523,node,Kerkouche Gynecologue كركوش طب النساء,gynaecology,doctors,,,,,36.7538461,3.0638245,OpenStreetMap,2026-11-24T17:08:12.729008+00:00
+4929668524,node,,,doctors,,,,,36.7539962,3.0613515,OpenStreetMap,2026-11-24T17:08:12.729012+00:00
+4929668525,node,علي يحيى طب القلب,,doctors,,,,,36.7492631,3.0673348,OpenStreetMap,2026-11-24T17:08:12.729017+00:00
+4929668622,node,,allergology,doctors,,,,,36.7533656,3.06321,OpenStreetMap,2026-11-24T17:08:12.729021+00:00
+4929668623,node,شطيبي طب الغذد و السكري,diabetology,doctors,,,,,36.7548851,3.0643677,OpenStreetMap,2026-11-24T17:08:12.729025+00:00
+4929668624,node,,internal,doctors,,,,,36.7538822,3.0614373,OpenStreetMap,2026-11-24T17:08:12.729030+00:00
+4929668625,node,حموش طب الحساسية,,doctors,,,,,36.749325,3.0671427,OpenStreetMap,2026-11-24T17:08:12.729034+00:00
+4939032022,node,,,clinic,,,,,36.7520273,3.0621742,OpenStreetMap,2026-11-24T17:08:12.729039+00:00
+4939032023,node,Djoumi Laboratoire Ana-Phatologie جومي مخبر التحاليل,,clinic,,,,,36.7521328,3.061316,OpenStreetMap,2026-11-24T17:08:12.729043+00:00
+4944768321,node,عزيزي مخبر التحاليل الطبية,,clinic,,,,,36.7550751,3.0641541,OpenStreetMap,2026-11-24T17:08:12.729047+00:00
+4945521925,node,,,doctors,021738770,Rue Colonel Chabani Mohamed,الجزائر,,36.765399,3.0526344,OpenStreetMap,2026-11-24T17:08:12.729052+00:00
+4958743627,node,الطبيبة أوصالح لأمراض العيون,,clinic,,,القبة,,36.7342204,3.0639591,OpenStreetMap,2026-11-24T17:08:12.729057+00:00
+4961708222,node,,cardiology,doctors,,,,,36.7910283,3.0589437,OpenStreetMap,2026-11-24T17:08:12.729061+00:00
+4962025121,node,ياسيني طب الداخلي,,doctors,,,,,36.7907897,3.0562074,OpenStreetMap,2026-11-24T17:08:12.729077+00:00
+4962025221,node,,internal,doctors,,,,,36.7910248,3.0558567,OpenStreetMap,2026-11-24T17:08:12.729083+00:00
+4962041022,node,شعباني طب القلب,,doctors,,,,,36.7630446,3.0444087,OpenStreetMap,2026-11-24T17:08:12.729088+00:00
+4962043322,node,,,doctors,,,,,36.7622777,3.0449787,OpenStreetMap,2026-11-24T17:08:12.729092+00:00
+4962047721,node,بن واضح طب القلب,cardiology,doctors,,,,,36.7930029,3.0498118,OpenStreetMap,2026-11-24T17:08:12.729096+00:00
+4962047722,node,,,doctors,,,,,36.782485,3.0601526,OpenStreetMap,2026-11-24T17:08:12.729101+00:00
+4962047821,node,مغربي طب الغذد و السكري,diabetology,doctors,,,,,36.7927899,3.0498115,OpenStreetMap,2026-11-24T17:08:12.729105+00:00
+4962047822,node,غانم طب الغذد و السكري,,doctors,,,,,36.7882799,3.047867,OpenStreetMap,2026-11-24T17:08:12.729110+00:00
+4962048421,node,ابن الخطيب مركز صحي,,clinic,,,سيدي امحمد,,36.7630788,3.0469465,OpenStreetMap,2026-11-24T17:08:12.729114+00:00
+4967407223,node,حجامة,,doctors,,Chemin Mezouar Abdelkader,,,36.7103435,3.0347664,OpenStreetMap,2026-11-24T17:08:12.729118+00:00
+4973144824,node,عيادة الدكتور فوضيل,,doctors,+21321267123,,,,36.7238208,3.1203868,OpenStreetMap,2026-11-24T17:08:12.729123+00:00
+4974277123,node,ميهوبي طب الحساسية,,doctors,,,,,36.7454152,3.0655845,OpenStreetMap,2026-11-24T17:08:12.729127+00:00
+4974277124,node,ريلود طب الكلى,,doctors,,,,,36.745203,3.0658737,OpenStreetMap,2026-11-24T17:08:12.729131+00:00
+4974277125,node,,internal,doctors,,,,,36.7465473,3.0600373,OpenStreetMap,2026-11-24T17:08:12.729135+00:00
+4974622221,node,,,doctors,,,,,36.7429848,3.0632321,OpenStreetMap,2026-11-24T17:08:12.729139+00:00
+4977067731,node,,,doctors,,,,,36.7414187,3.0499145,OpenStreetMap,2026-11-24T17:08:12.729144+00:00
+4983879923,node,Mohammedi Cardiologue,,doctors,,,,,36.7918289,3.0591287,OpenStreetMap,2026-11-24T17:08:12.729148+00:00
+4984742324,node,شيخ الحاج طب العام,general,doctors,,,,,36.7525006,3.0619933,OpenStreetMap,2026-11-24T17:08:12.729152+00:00
+4987905228,node,Centre d'oncologie Fatema Al Azhar,oncology,clinic,,,,,36.7645515,2.9831591,OpenStreetMap,2026-11-24T17:08:12.729172+00:00
+4992303023,node,شايب الذراع طب الغذد و السكري,,doctors,,,,,36.7238415,3.0527566,OpenStreetMap,2026-11-24T17:08:12.729177+00:00
+4992359726,node,حركات طب الأعصاب,,doctors,,,,,36.7172363,3.0493229,OpenStreetMap,2026-11-24T17:08:12.729182+00:00
+4994604821,node,,diabetology,doctors,,,,,36.7697276,3.0306603,OpenStreetMap,2026-11-24T17:08:12.729186+00:00
+4994851321,node,Dr Moualek,cardiology,doctors,,,,,36.7683298,3.0316105,OpenStreetMap,2026-11-24T17:08:12.729191+00:00
+4994860421,node,بن كانون طب الداخلي,internal,doctors,,,,,36.7670974,3.0342129,OpenStreetMap,2026-11-24T17:08:12.729195+00:00
+4996288196,node,Centre de radiologie Mansori,,doctors,,,,,36.7212943,3.1460218,OpenStreetMap,2026-11-24T17:08:12.729199+00:00
+4996461426,node,,cardiology,doctors,,,,,36.7681085,3.0195506,OpenStreetMap,2026-11-24T17:08:12.729203+00:00
+4996473321,node,Dr Zemiti,neurology,doctors,,,,,36.766698,3.0351275,OpenStreetMap,2026-11-24T17:08:12.729207+00:00
+4999405321,node,بلحسين طب القلب,,doctors,,,,,36.7612388,3.0112278,OpenStreetMap,2026-11-24T17:08:12.729212+00:00
+4999405322,node,شاوش طب عام,general,doctors,,,,,36.7614437,3.0132251,OpenStreetMap,2026-11-24T17:08:12.729216+00:00
+4999405421,node,العطاسي طب الغذد و السكري,diabetology,doctors,,,,,36.7611343,3.0130605,OpenStreetMap,2026-11-24T17:08:12.729221+00:00
+5023918422,node,الحكيم قوري محمد,,doctors,0665515666,El Hamiz,,,36.7294428,3.2321664,OpenStreetMap,2026-11-24T17:08:12.729226+00:00
+5037392611,node,Supérette Le Fermier,,doctors,0550357525,Boulevard Said Hamdine,,,36.7492298,3.038935,OpenStreetMap,2026-11-24T17:08:12.729230+00:00
+5037521224,node,Medcin interne,,doctors,,,,,36.7209832,3.2020105,OpenStreetMap,2026-11-24T17:08:12.729234+00:00
+5039747443,node,,,doctors,,,,,36.7640695,2.9653618,OpenStreetMap,2026-11-24T17:08:12.729239+00:00
+5041300224,node,Hakim Talbi,,doctors,,,,,36.7392089,3.278397,OpenStreetMap,2026-11-24T17:08:12.729243+00:00
+5041352750,node,,,doctors,,,,,36.7026356,3.0858801,OpenStreetMap,2026-11-24T17:08:12.729247+00:00
+5063848221,node,بن ساعو طب الداخلي,internal,doctors,,,,,36.746147,3.0508806,OpenStreetMap,2026-11-24T17:08:12.729251+00:00
+5075209322,node,Dr. bacha,general,doctors,,la route neuf,,,36.7876484,3.0179898,OpenStreetMap,2026-11-24T17:08:12.729255+00:00
+5077055321,node,ماجور طب عام,,doctors,,,,,36.7453074,3.0546006,OpenStreetMap,2026-11-24T17:08:12.729261+00:00
+5102822721,node,حاجي طب عام,general,doctors,,,,,36.7693351,3.0283135,OpenStreetMap,2026-11-24T17:08:12.729265+00:00
+5104848527,node,برطال طب القلب,cardiology,doctors,,شارع دزيري عبد الكريم,,,36.771369,3.0398874,OpenStreetMap,2026-11-24T17:08:12.729271+00:00
+5104848528,node,بلهبري طب القلب,cardiology,doctors,0669234723,شارع دزيري عبد الكريم,,,36.7714651,3.0400382,OpenStreetMap,2026-11-24T17:08:12.729275+00:00
+5111172921,node,مستوصف الفوج 10,,clinic,,,,,36.7881618,3.0475182,OpenStreetMap,2026-11-24T17:08:12.729280+00:00
+5116932622,node,بولقريعات طب الداخلي,,doctors,,,,,36.7357469,3.0464907,OpenStreetMap,2026-11-24T17:08:12.729285+00:00
+5119481222,node,طالبي طب عام,general,doctors,,,,,36.7346769,3.0451043,OpenStreetMap,2026-11-24T17:08:12.729289+00:00
+5119580221,node,طبيب القلب بوراوي,,doctors,,,,,36.7449729,2.9991906,OpenStreetMap,2026-11-24T17:08:12.729293+00:00
+5126131430,node,عيادة جراحة العيون الأمل,ophthalmology;Eye_surgery,clinic,,,,,36.7891774,3.2916404,OpenStreetMap,2026-11-24T17:08:12.729309+00:00
+5128286226,node,,,clinic,,,,,36.7706993,3.0206995,OpenStreetMap,2026-11-24T17:08:12.729314+00:00
+5134771324,node,Clinique Diar Saada,,clinic,(213-21) 69 87 11,"100 chemin Abdelkader, El mouradia",,,36.7473668,3.0397125,OpenStreetMap,2026-11-24T17:08:12.729319+00:00
+5139281622,node,,,doctors,,,,,36.7681551,3.0567708,OpenStreetMap,2026-11-24T17:08:12.729324+00:00
+5141498100,node,Laboratoire ELamane,,doctors,,,,,36.7878957,3.2973147,OpenStreetMap,2026-11-24T17:08:12.729328+00:00
+5150773838,node,LABORATOIRE D'ANALYSES MEDICALES HADJI,,doctors,,,,,36.6943373,2.9812515,OpenStreetMap,2026-11-24T17:08:12.729333+00:00
+5160612422,node,Almahouacif Interniste;المحواسيف طب الداخلي,internal,doctors,,شارع سمير حافظ,وادي قريش,,36.7775039,3.0415687,OpenStreetMap,2026-11-24T17:08:12.729337+00:00
+5172392322,node,,,doctors,,,,,36.7540687,3.0076466,OpenStreetMap,2026-11-24T17:08:12.729341+00:00
+5172629622,node,عيادة النجاح,,clinic,0560 05 50 17,,,http://www.clinique-ennadjah.dz,36.7107768,3.0529387,OpenStreetMap,2026-11-24T17:08:12.729346+00:00
+5173370123,node,Centre de rééducation de Chéraga,,doctors,,,,,36.7679303,2.9664581,OpenStreetMap,2026-11-24T17:08:12.729350+00:00
+5195560521,node,بروفيسور يازيب يازيد(الانف و الحنجرة),,clinic,,Rue Mechik Abdelmoumene,,,36.7246387,3.093336,OpenStreetMap,2026-11-24T17:08:12.729354+00:00
+5208852121,node,,,doctors,,,,,36.7271373,3.1171742,OpenStreetMap,2026-11-24T17:08:12.729359+00:00
+5214138721,node,Cabinet Médical obstetrique Kabouya بروفيسور كابويا سعيد,,doctors,,Boulevard Mohamed V,,,36.7673217,3.051805,OpenStreetMap,2026-11-24T17:08:12.729368+00:00
+5257945022,node,الدكتور شعبان سمير جراح عظام,,doctors,0550162058,Cité 1090 LSP bâtiment B13 N°4 BABA Hassen Alger,,,36.6898678,2.959604,OpenStreetMap,2026-11-24T17:08:12.729372+00:00
+5275052621,node,,,doctors,,,,,36.7221449,3.1978956,OpenStreetMap,2026-11-24T17:08:12.729377+00:00
+5297351694,node,cabinet d orthophoni,,doctors,,,,,36.7484786,3.1926569,OpenStreetMap,2026-11-24T17:08:12.729382+00:00
+5318146522,node,الدكتور بوعلي- جراحة المخ و العمود الفقري,,doctors,023751698,Rue Abderrahmene Hergma,,,36.7326356,3.1317757,OpenStreetMap,2026-11-24T17:08:12.729386+00:00
+5325193421,node,,general,doctors,,,بابا حسن,,36.6963629,2.9676891,OpenStreetMap,2026-11-24T17:08:12.729390+00:00
+5332968923,node,Clinique Kardia,,clinic,,,,,36.7093652,3.097285,OpenStreetMap,2026-11-24T17:08:12.729395+00:00
+5345804221,node,Pédiatre,,doctors,,dnc,,,36.7432443,3.3427995,OpenStreetMap,2026-11-24T17:08:12.729399+00:00
+5349171921,node,samir,,doctors,,,,,36.7571342,3.2082722,OpenStreetMap,2026-11-24T17:08:12.729403+00:00
+5370062522,node,بوجلي طب الداخلي,,doctors,,,,,36.7151316,3.0555715,OpenStreetMap,2026-11-24T17:08:12.729408+00:00
+5379137330,node,Clinique el Bordj,,clinic,,,,,36.747465,3.1844204,OpenStreetMap,2026-11-24T17:08:12.729412+00:00
+5382615521,node,,,doctors,,,,,36.770539,3.010898,OpenStreetMap,2026-11-24T17:08:12.729416+00:00
+5382615522,node,,,doctors,,,,,36.7703528,3.0111243,OpenStreetMap,2026-11-24T17:08:12.729420+00:00
+5382615621,node,,,doctors,,,,,36.771054,3.0111603,OpenStreetMap,2026-11-24T17:08:12.729425+00:00
+5393421821,node,,,clinic,,,,,36.7891804,3.0188718,OpenStreetMap,2026-11-24T17:08:12.729429+00:00
+5400070054,node,Gharmoule,,clinic,,,,,36.7603628,3.0503224,OpenStreetMap,2026-11-24T17:08:12.729433+00:00
+5406768822,node,Clinique Hémodialyse,,clinic,,,,,36.7568499,2.9650456,OpenStreetMap,2026-11-24T17:08:12.729437+00:00
+5406791922,node,Laboratoire Boutaba,,doctors,,,,,36.7683863,2.9573983,OpenStreetMap,2026-11-24T17:08:12.729442+00:00
+5407147122,node,Centre d'imagerie médicale,,doctors,,,,,36.7579,2.9501993,OpenStreetMap,2026-11-24T17:08:12.729446+00:00
+5414356623,node,Hakimi Interniste حاكيمي طب الداخلي,internal,doctors,,,الجزائر الوسطى,,36.7665428,3.0514197,OpenStreetMap,2026-11-24T17:08:12.729450+00:00
+5414361524,node,,diabetology,doctors,,,,,36.7667222,3.055016,OpenStreetMap,2026-11-24T17:08:12.729454+00:00
+5414361525,node,Touati Endo-Diabétologue,diabetology,doctors,,,,,36.7666185,3.0549258,OpenStreetMap,2026-11-24T17:08:12.729459+00:00
+5414361526,node,,cardiology,doctors,,,,,36.7677964,3.0555406,OpenStreetMap,2026-11-24T17:08:12.729463+00:00
+5414376423,node,Babahmed Interniste,,doctors,,,,,36.7667206,3.0555395,OpenStreetMap,2026-11-24T17:08:12.729467+00:00
+5418622821,node,Dermatologue,,doctors,0675747387,,,,36.7319179,3.1714011,OpenStreetMap,2026-11-24T17:08:12.729473+00:00
+5418623021,node,النحلة التلية (التداوي بالنحل),,doctors,0550663127,,المحمدية,,36.7322225,3.1715069,OpenStreetMap,2026-11-24T17:08:12.729477+00:00
+5433014624,node,Laboratoire des analyses,,clinic,,dnc,,,36.7463257,3.3445497,OpenStreetMap,2026-11-24T17:08:12.729481+00:00
+5433123458,node,,,doctors,,,,,36.768838,3.0556518,OpenStreetMap,2026-11-24T17:08:12.729485+00:00
+5466272621,node,,diabetology,doctors,,,,,36.7656228,3.0521823,OpenStreetMap,2026-11-24T17:08:12.729489+00:00
+5473697521,node,Dr. ADGHAR Spécialiste en Cardiologie et maladies Cardiovasculaires,cardiology,doctors,,,,,36.7243164,3.1366334,OpenStreetMap,2026-11-24T17:08:12.729494+00:00
+5481897861,node,Dr. B.bendimerad,,doctors,,,,,36.734015,3.2336265,OpenStreetMap,2026-11-24T17:08:12.729498+00:00
+5487885322,node,,,doctors,,,,,36.6425403,2.9971747,OpenStreetMap,2026-11-24T17:08:12.729502+00:00
+5493365871,node,Habitation / Médecin en Cardiologue /FOURS maya Concession Automobiles,cardiology,doctors,,Rue Didouche Mourad,Sidi M'Hamed,,36.7678927,3.053828,OpenStreetMap,2026-11-24T17:08:12.729506+00:00
+5495942621,node,أمراض السكري و الغدد د. عينوز,,doctors,,,,,36.7415269,3.3388472,OpenStreetMap,2026-11-24T17:08:12.729511+00:00
+5500663824,node,Aider Urologue,urology,doctors,,,,,36.7928857,3.0506231,OpenStreetMap,2026-11-24T17:08:12.729515+00:00
+5515212916,node,Clinique Ennour,,clinic,,,,,36.7419599,3.0660894,OpenStreetMap,2026-11-24T17:08:12.729520+00:00
+5515370822,node,,,clinic,,,,,36.7919269,3.0592866,OpenStreetMap,2026-11-24T17:08:12.729524+00:00
+5515370823,node,مخبر التحاليل الطبية,,clinic,,,,,36.7929078,3.0499571,OpenStreetMap,2026-11-24T17:08:12.729528+00:00
+5515370824,node,,,doctors,,,,,36.763036,3.05587,OpenStreetMap,2026-11-24T17:08:12.729532+00:00
+5515370825,node,Boumaaza Cardiologue,,doctors,,,,,36.7628069,3.051334,OpenStreetMap,2026-11-24T17:08:12.729537+00:00
+5515371221,node,Maaouche Pneumologue,,doctors,,,,,36.7624874,3.0512499,OpenStreetMap,2026-11-24T17:08:12.729548+00:00
+5517302921,node,,,doctors,,,,,36.7336165,3.1087807,OpenStreetMap,2026-11-24T17:08:12.729552+00:00
+5520364923,node,صحراوي طب الأطفال,,doctors,,,,,36.7417641,3.0656908,OpenStreetMap,2026-11-24T17:08:12.729557+00:00
+5520364927,node,,,doctors,,,,,36.7441802,3.0589304,OpenStreetMap,2026-11-24T17:08:12.729561+00:00
+5520364928,node,,,clinic,,,,,36.7450987,3.0571934,OpenStreetMap,2026-11-24T17:08:12.729565+00:00
+5520365425,node,بالة طب العظام و المفاصل,,doctors,,,,,36.7453752,3.0658379,OpenStreetMap,2026-11-24T17:08:12.729569+00:00
+5520383721,node,,,clinic,,,,,36.7452972,3.056109,OpenStreetMap,2026-11-24T17:08:12.729573+00:00
+5525558022,node,ربة طب الداخلي,,doctors,,,,,36.720408,3.050727,OpenStreetMap,2026-11-24T17:08:12.729578+00:00
+5529489621,node,,,doctors,,,,,36.7323135,3.0455587,OpenStreetMap,2026-11-24T17:08:12.729582+00:00
+5540865021,node,,,doctors,,,,,36.725164,3.080902,OpenStreetMap,2026-11-24T17:08:12.729586+00:00
+5548655821,node,بلقصة يزيد مختص العظام والمفاصل,,doctors,+213556237094,,,,36.7364501,3.2857204,OpenStreetMap,2026-11-24T17:08:12.729590+00:00
+5556244668,node,,,doctors,,,,,36.7198019,3.0991767,OpenStreetMap,2026-11-24T17:08:12.729594+00:00
+5556366821,node,,,doctors,0558274544,Rue Benkahla Mohamed,,,36.7225515,3.0883185,OpenStreetMap,2026-11-24T17:08:12.729598+00:00
+5565209821,node,Zidane O.R.L زيدان طب الأنف والحنجرة,,doctors,,,,,36.7539881,3.0654508,OpenStreetMap,2026-11-24T17:08:12.729603+00:00
+5565209822,node,ملعب طب الأعصاب,neurology,doctors,0771781848,Rue Ahmed Touzem,,,36.7907409,3.0564132,OpenStreetMap,2026-11-24T17:08:12.729607+00:00
+5565209921,node,,,doctors,,,,,36.7455326,3.0795314,OpenStreetMap,2026-11-24T17:08:12.729611+00:00
+5570773721,node,,,doctors,,,,,36.6677502,3.1430825,OpenStreetMap,2026-11-24T17:08:12.729616+00:00
+5573828023,node,,,doctors,,,,,36.7656739,3.0531632,OpenStreetMap,2026-11-24T17:08:12.729620+00:00
+5573840222,node,,,doctors,,,,,36.765719,3.053388,OpenStreetMap,2026-11-24T17:08:12.729624+00:00
+5573840225,node,طب المسالك البولية,urology,doctors,,,,,36.7459547,3.0598513,OpenStreetMap,2026-11-24T17:08:12.729629+00:00
+5573850223,node,,cardiology,doctors,,,,,36.7645319,3.0538816,OpenStreetMap,2026-11-24T17:08:12.729633+00:00
+5576405721,node,طب الأطفال,,doctors,,,,,36.7352203,3.0459495,OpenStreetMap,2026-11-24T17:08:12.729637+00:00
+5576405921,node,,gynaecology,doctors,,,,,36.736043,3.0464371,OpenStreetMap,2026-11-24T17:08:12.729642+00:00
+5576405922,node,Dr Boudjellal,internal,doctors,,,,,36.7292665,3.0433992,OpenStreetMap,2026-11-24T17:08:12.729646+00:00
+5576406021,node,Dr Haddak,cardiology,doctors,,,,,36.7292175,3.0431053,OpenStreetMap,2026-11-24T17:08:12.729650+00:00
+5576406022,node,,,clinic,,,,,36.7137412,3.0519019,OpenStreetMap,2026-11-24T17:08:12.729654+00:00
+5576406023,node,Dr Himmer,endocrinology;diabetology,doctors,,,,,36.7269277,3.050974,OpenStreetMap,2026-11-24T17:08:12.729659+00:00
+5579018821,node,غبالو طب القلب,cardiology,doctors,,,,,36.7676081,3.0187694,OpenStreetMap,2026-11-24T17:08:12.729663+00:00
+5594348124,node,طبيب مختص في الام المعدة,,doctors,,,,,36.7401794,2.996875,OpenStreetMap,2026-11-24T17:08:12.729667+00:00
+5617033622,node,,,doctors,,,,,36.764119,3.2366131,OpenStreetMap,2026-11-24T17:08:12.729671+00:00
+5630672429,node,حمبلي طب الأطفال,,doctors,,,,,36.7904938,3.0581931,OpenStreetMap,2026-11-24T17:08:12.729676+00:00
+5630696724,node,Bessai Gastro-Entérologue,gastroenterology,doctors,,,,,36.7926749,3.050505,OpenStreetMap,2026-11-24T17:08:12.729680+00:00
+5630696725,node,الفحوصات الخارجية لداء السكري,diabetology,clinic,,,,,36.7922151,3.0524581,OpenStreetMap,2026-11-24T17:08:12.729685+00:00
+5630696728,node,بابا أحمد طب الداخلي,,doctors,,,,,36.6965124,3.0788487,OpenStreetMap,2026-11-24T17:08:12.729690+00:00
+5630696730,node,Salle de Soins El Mahsol قاعة العلاج المحصول,,clinic,,,,,36.7467682,3.0663983,OpenStreetMap,2026-11-24T17:08:12.729694+00:00
+5630696829,node,,,doctors,,,,,36.6975055,3.0770045,OpenStreetMap,2026-11-24T17:08:12.729698+00:00
+5630697122,node,لونيس طب عام,,doctors,,,,,36.7921231,3.0521764,OpenStreetMap,2026-11-24T17:08:12.729703+00:00
+5632878424,node,,,doctors,,,,,36.7301774,3.0377942,OpenStreetMap,2026-11-24T17:08:12.729707+00:00
+5632878425,node,,,doctors,,,,,36.730329,3.037129,OpenStreetMap,2026-11-24T17:08:12.729711+00:00
+5632878426,node,دوادي طب القلب,,doctors,,,,,36.7417737,3.0514071,OpenStreetMap,2026-11-24T17:08:12.729715+00:00
+5632894524,node,بن زرفة طب القلب,,doctors,,,,,36.7420618,3.0513784,OpenStreetMap,2026-11-24T17:08:12.729724+00:00
+5632894525,node,Gastrologue,,doctors,,cite les sources,,,36.7329246,3.0549491,OpenStreetMap,2026-11-24T17:08:12.729733+00:00
+5635187221,node,مقراني طب القلب,,doctors,,,,,36.724038,3.0522301,OpenStreetMap,2026-11-24T17:08:12.729738+00:00
+5635187222,node,مقراني طب و جراحة العيون,,doctors,,,,,36.7240508,3.0528979,OpenStreetMap,2026-11-24T17:08:12.729743+00:00
+5635187224,node,جعبوب طب الأعصاب,,doctors,,,,,36.715159,3.0557639,OpenStreetMap,2026-11-24T17:08:12.729756+00:00
+5637238424,node,ياكر مخبر التحاليل الطبية,,clinic,,,,,36.7723049,3.0402872,OpenStreetMap,2026-11-24T17:08:12.729761+00:00
+5649727122,node,رايسي مخبر التحاليل الطبية,,clinic,,,,,36.790397,3.0590965,OpenStreetMap,2026-11-24T17:08:12.729765+00:00
+5652229324,node,,,doctors,,,,,36.7596443,3.0566456,OpenStreetMap,2026-11-24T17:08:12.729770+00:00
+5652229325,node,,,doctors,,,,,36.7598091,3.0564399,OpenStreetMap,2026-11-24T17:08:12.729775+00:00
+5653075199,node,Sahraoui samir audio prothésiste,,doctors,,Rue Hassiba Benbouali,,,36.7570704,3.0641318,OpenStreetMap,2026-11-24T17:08:12.729780+00:00
+5664000622,node,,,doctors,,,,,36.7309299,3.0615842,OpenStreetMap,2026-11-24T17:08:12.729784+00:00
+5670918428,node,قارة طب الأنف و الحنجرة,,doctors,,,,,36.7171885,3.0489203,OpenStreetMap,2026-11-24T17:08:12.729789+00:00
+5670918429,node,غزراوي طب النساء و التوليد,,doctors,,,,,36.7172692,3.0491159,OpenStreetMap,2026-11-24T17:08:12.729793+00:00
+5670918430,node,مخبر التحاليل الطبية,,clinic,,,,,36.7167176,3.0488635,OpenStreetMap,2026-11-24T17:08:12.729798+00:00
+5736271622,node,السيدة بن نافلة,,doctors,0772895954,,,,36.7073454,3.2886322,OpenStreetMap,2026-11-24T17:08:12.729802+00:00
+5736844922,node,بن فيلة,,clinic,,,,,36.7073426,3.2886484,OpenStreetMap,2026-11-24T17:08:12.729806+00:00
+5745861380,node,Kacel laboratoire,,clinic,,,,,36.7218835,3.3384832,OpenStreetMap,2026-11-24T17:08:12.729810+00:00
+5765259131,node,Pendant les médicales,,clinic,,,,,36.7478809,3.1936634,OpenStreetMap,2026-11-24T17:08:12.729814+00:00
+5792265253,node,عيادة أمراض القلب و الأوعية الدكتور م. بوسنه,,doctors,0553927034,"Coopérative El Badr, Bendjaida",,,36.7811644,3.2488208,OpenStreetMap,2026-11-24T17:08:12.729819+00:00
+5796846754,node,بن نافلة,,clinic,,,,,36.7074031,3.2884915,OpenStreetMap,2026-11-24T17:08:12.729823+00:00
+5815261629,node,,,doctors,,,,,36.7158948,3.1265481,OpenStreetMap,2026-11-24T17:08:12.729827+00:00
+5842058081,node,Docteur Bouali- Neurochirugien,,doctors,,,,,36.7325011,3.1327397,OpenStreetMap,2026-11-24T17:08:12.729832+00:00
+5887529485,node,مركز المساعدة الطبية للإنجاب تيزيري,fertility,clinic,+213 23 06 91 76;+213 23 06 91 77;+213 23 38 77 49;+213 23 38 78 89,Rue des Frères Djerroud,,https://pmatiziri.com/,36.7716123,3.041083,OpenStreetMap,2026-11-24T17:08:12.729836+00:00
+5906209281,node,Laboratoire d'analyse et citron logis tautologique,,clinic,,,,,36.7979159,3.2390036,OpenStreetMap,2026-11-24T17:08:12.729841+00:00
+5918881486,node,بوزيدي طب القلب,,doctors,,,,,36.7370828,3.05381,OpenStreetMap,2026-11-24T17:08:12.729845+00:00
+5926798985,node,مستوصف,,clinic,,,,,36.6809077,3.2585523,OpenStreetMap,2026-11-24T17:08:12.729849+00:00
+5942396085,node,حربي بن مخلوف طب عام,,doctors,,,,,36.7300272,3.0385226,OpenStreetMap,2026-11-24T17:08:12.729853+00:00
+5961186592,node,Centre hospitalier universitaire,,clinic,,,,,36.76265,3.0513407,OpenStreetMap,2026-11-24T17:08:12.729857+00:00
+5961235378,node,Analyse médicale ben tayba,,clinic,,,,,36.7625228,3.0512983,OpenStreetMap,2026-11-24T17:08:12.729861+00:00
+5964086088,node,Dr Benali,cardiology,doctors,,,Alger,,36.777769,3.057775,OpenStreetMap,2026-11-24T17:08:12.729865+00:00
+5965918785,node,بن زايدي طب الداخلي,internal,doctors,,,,,36.7905038,3.0591467,OpenStreetMap,2026-11-24T17:08:12.729869+00:00
+5966399886,node,مستوصف جين جوراس,,clinic,,,,,36.7913234,3.0493604,OpenStreetMap,2026-11-24T17:08:12.729874+00:00
+5989123886,node,Dr.Tamourt Athmane,cardiology,doctors,,CW 111,Draria,,36.7114563,2.9976501,OpenStreetMap,2026-11-24T17:08:12.729878+00:00
+6003538985,node,يحياوي طب الداخلي,,doctors,,,,,36.7335366,3.0496471,OpenStreetMap,2026-11-24T17:08:12.729882+00:00
+6009588385,node,لعروس طب الغذد و السكري,,doctors,,,,,36.7357007,3.0347383,OpenStreetMap,2026-11-24T17:08:12.729886+00:00
+6009588585,node,سباعي طب القلب,,doctors,,,,,36.7531881,3.0416104,OpenStreetMap,2026-11-24T17:08:12.729891+00:00
+6032899985,node,Clinique Dr Boukerma,,clinic,,حي الحيدوسي شارع 12,الكاليتوس,,36.6585066,3.151968,OpenStreetMap,2026-11-24T17:08:12.729895+00:00
+6044374993,node,صحة جوارية لبراقي,,clinic,,,الكاليتوس,,36.6584974,3.1479087,OpenStreetMap,2026-11-24T17:08:12.729899+00:00
+6044375147,node,,,doctors,,,,,36.7480212,3.0260887,OpenStreetMap,2026-11-24T17:08:12.729903+00:00
+6044375214,node,,,doctors,,,,,36.7506392,3.0247459,OpenStreetMap,2026-11-24T17:08:12.729908+00:00
+6049617485,node,Hannachi حناشي طب الأمراض الصدرية,,doctors,,,الجزائر,,36.7639207,3.0522869,OpenStreetMap,2026-11-24T17:08:12.729919+00:00
+6052880385,node,Clinique CGSA,,clinic,,,,,36.74525,3.023051,OpenStreetMap,2026-11-24T17:08:12.729923+00:00
+6069986086,node,Laboratoire analyse médicale,,clinic,,,,,36.7462901,3.0265916,OpenStreetMap,2026-11-24T17:08:12.729927+00:00
+6094949388,node,بلكوت طب الداخلي,,doctors,,,,,36.7351268,3.0621469,OpenStreetMap,2026-11-24T17:08:12.729931+00:00
+6121886927,node,Cabinet de Podologie Sanhadji,,doctors,+213 0541 000 447,Rue Leon Tolstoi,,,36.7460554,3.0349785,OpenStreetMap,2026-11-24T17:08:12.729935+00:00
+6166674316,node,,,doctors,,,الحراش,,36.7179931,3.1413093,OpenStreetMap,2026-11-24T17:08:12.729940+00:00
+6166675844,node,Clinique Audin,,clinic,,,,,36.7702257,3.0561903,OpenStreetMap,2026-11-24T17:08:12.729944+00:00
+6173602486,node,les orangers,,clinic,,,,,36.7553875,3.0416548,OpenStreetMap,2026-11-24T17:08:12.729948+00:00
+6176258995,node,AMOKRAN.Samia GYN,,doctors,,,,,36.7061682,3.0787173,OpenStreetMap,2026-11-24T17:08:12.729954+00:00
+6176258996,node,AOUKLI .Fatima GYN,,doctors,,,,,36.7065052,3.0796989,OpenStreetMap,2026-11-24T17:08:12.729958+00:00
+6176258997,node,Coopérative ESSAADA,,doctors,,,,,36.6940479,3.077459,OpenStreetMap,2026-11-24T17:08:12.729962+00:00
+6185481385,node,Abdelhakim HAZEM,,doctors,021553633,Rue Hamidi Saïd,,,36.7134598,3.05078,OpenStreetMap,2026-11-24T17:08:12.729967+00:00
+6189284187,node,Pédiatre,paediatrics,doctors,,,,,36.7669656,3.0350611,OpenStreetMap,2026-11-24T17:08:12.729971+00:00
+6189288086,node,Gyneco,,doctors,,,,,36.7679588,3.0331992,OpenStreetMap,2026-11-24T17:08:12.729976+00:00
+6189312086,node,Generalist BOUKHOBZA,,doctors,,,,,36.7694072,3.0314492,OpenStreetMap,2026-11-24T17:08:12.729980+00:00
+6189312286,node,Endocrinologue,endocrinology,doctors,,,,,36.7695958,3.0308871,OpenStreetMap,2026-11-24T17:08:12.729985+00:00
+6189860185,node,Gyn OULGHIS,,doctors,,,,,36.7693126,3.033629,OpenStreetMap,2026-11-24T17:08:12.729989+00:00
+6190002786,node,Ped Baali nadia,,doctors,,,,,36.768756,3.0343925,OpenStreetMap,2026-11-24T17:08:12.729993+00:00
+6190028285,node,Int oukadour,,doctors,,,,,36.7687694,3.0341407,OpenStreetMap,2026-11-24T17:08:12.729997+00:00
+6190137186,node,Interniste,internal,doctors,,,,,36.7665898,3.035791,OpenStreetMap,2026-11-24T17:08:12.730001+00:00
+6191607385,node,Gyneco HAMITOUCHE,,doctors,,,,,36.7693836,3.027816,OpenStreetMap,2026-11-24T17:08:12.730005+00:00
+6191846085,node,Pédiatre,paediatrics,doctors,,,,,36.7667263,3.0262184,OpenStreetMap,2026-11-24T17:08:12.730009+00:00
+6193650085,node,2 cabinets gyn derm,,doctors,,,,,36.7728001,3.0420936,OpenStreetMap,2026-11-24T17:08:12.730013+00:00
+6196541586,node,Dermato SADAOUI,,doctors,,,,,36.7172793,3.049171,OpenStreetMap,2026-11-24T17:08:12.730017+00:00
+6196541587,node,Gyneco,,doctors,,,,,36.7190173,3.0502969,OpenStreetMap,2026-11-24T17:08:12.730021+00:00
+6196560385,node,Pediatre ahmad saadi - SABOUR,,doctors,,,,,36.7169377,3.0487222,OpenStreetMap,2026-11-24T17:08:12.730026+00:00
+6196560485,node,Généraliste,,doctors,,,,,36.7143169,3.0489659,OpenStreetMap,2026-11-24T17:08:12.730030+00:00
+6196560585,node,Gyneco ourahmoun,,doctors,,,,,36.715219,3.0507016,OpenStreetMap,2026-11-24T17:08:12.730034+00:00
+6204927485,node,Gen KRABCHI MOHAMED,,doctors,,,,,36.7149312,3.0505587,OpenStreetMap,2026-11-24T17:08:12.730038+00:00
+6204927486,node,Pediatre,,doctors,,,,,36.7133858,3.050804,OpenStreetMap,2026-11-24T17:08:12.730042+00:00
+6204927487,node,Dermato,,doctors,,,,,36.713377,3.0508661,OpenStreetMap,2026-11-24T17:08:12.730046+00:00
+6204927488,node,Ghalmi mounira MGG,,doctors,,,,,36.7170613,3.0464269,OpenStreetMap,2026-11-24T17:08:12.730050+00:00
+6204927489,node,Pédiatre طبيب أطفال,paediatrics,doctors,,,,,36.7164652,3.0478839,OpenStreetMap,2026-11-24T17:08:12.730054+00:00
+6204927685,node,,paediatrics,doctors,,,بئر خادم,,36.7170769,3.0463602,OpenStreetMap,2026-11-24T17:08:12.730058+00:00
+6204989285,node,Alem djamel interniste,,doctors,,,,,36.7155319,3.0513426,OpenStreetMap,2026-11-24T17:08:12.730062+00:00
+6205558785,node,Farsi drag gyneco,,doctors,,,,,36.7138205,3.0481264,OpenStreetMap,2026-11-24T17:08:12.730066+00:00
+6206332185,node,docteur agrane دكتور اقران,,doctors,,Boulevard Krim Belkacem,,,36.7705538,3.0499619,OpenStreetMap,2026-11-24T17:08:12.730071+00:00
+6207052685,node,Saib nacer GAS,,doctors,,,,,36.7124267,3.0587284,OpenStreetMap,2026-11-24T17:08:12.730075+00:00
+6207072385,node,Belkorissat dermato,,doctors,,,,,36.7123649,3.058923,OpenStreetMap,2026-11-24T17:08:12.730079+00:00
+6207112485,node,Generaliste,,doctors,,,,,36.7012197,3.0671929,OpenStreetMap,2026-11-24T17:08:12.730083+00:00
+6207121985,node,Bechri salima généraliste,,doctors,,,,,36.7035656,3.067691,OpenStreetMap,2026-11-24T17:08:12.730095+00:00
+6207409985,node,Yala djamel Gen,,doctors,,,,,36.7172978,3.0464763,OpenStreetMap,2026-11-24T17:08:12.730100+00:00
+6208816885,node,Amich kheira Gen,,doctors,,,,,36.6959669,3.079588,OpenStreetMap,2026-11-24T17:08:12.730104+00:00
+6209612085,node,BELKALEM ALI Djamila Gen,general,doctors,,,,,36.7055082,3.0814098,OpenStreetMap,2026-11-24T17:08:12.730108+00:00
+6209618285,node,BOUKAOUMA Allaoua Gen,,doctors,,,,,36.7074065,3.0830902,OpenStreetMap,2026-11-24T17:08:12.730112+00:00
+6209798886,node,Krim assia el hadjen gyn,,doctors,,,,,36.7068742,3.0829008,OpenStreetMap,2026-11-24T17:08:12.730116+00:00
+6209799985,node,Ben laoukli f z gyn,,doctors,,,,,36.7066915,3.0830592,OpenStreetMap,2026-11-24T17:08:12.730120+00:00
+6210046785,node,Bensalem kemel Gen,,doctors,,,,,36.7058628,3.0797488,OpenStreetMap,2026-11-24T17:08:12.730124+00:00
+6210097985,node,Louni Gen,,doctors,,,,,36.6955881,3.0759256,OpenStreetMap,2026-11-24T17:08:12.730128+00:00
+6210354886,node,Ouali Gen,,doctors,,,,,36.7100747,3.0868465,OpenStreetMap,2026-11-24T17:08:12.730135+00:00
+6210411385,node,Gen 2 med,,doctors,,,,,36.7077871,3.0929235,OpenStreetMap,2026-11-24T17:08:12.730139+00:00
+6210421985,node,Pédiatre,,doctors,,,,,36.7108747,3.093218,OpenStreetMap,2026-11-24T17:08:12.730144+00:00
+6212427785,node,Cheikh Gen,,doctors,,,,,36.7042669,3.0771448,OpenStreetMap,2026-11-24T17:08:12.730148+00:00
+6212564485,node,Tayebi ghemrani GYN,,doctors,,,,,36.695696,3.0757287,OpenStreetMap,2026-11-24T17:08:12.730152+00:00
+6212564486,node,Pediatre Saidi frik,,doctors,,,,,36.6955709,3.0754097,OpenStreetMap,2026-11-24T17:08:12.730156+00:00
+6212629787,node,Malek Baya Gen,,doctors,,,,,36.696406,3.0789827,OpenStreetMap,2026-11-24T17:08:12.730160+00:00
+6212698785,node,Aoudjane layadi GYN,,doctors,,,,,36.6969818,3.0782066,OpenStreetMap,2026-11-24T17:08:12.730164+00:00
+6212764185,node,Medjkoune DERM,,doctors,,,,,36.6978573,3.0778696,OpenStreetMap,2026-11-24T17:08:12.730168+00:00
+6213156785,node,Bederina Gyneco,,doctors,,,,,36.6977296,3.0804105,OpenStreetMap,2026-11-24T17:08:12.730172+00:00
+6213440085,node,Bouriche Ped,,doctors,,,,,36.7021705,3.0763042,OpenStreetMap,2026-11-24T17:08:12.730176+00:00
+6215507887,node,Pediatre gyneco gastro,,doctors,,,,,36.7060063,3.0901652,OpenStreetMap,2026-11-24T17:08:12.730180+00:00
+6215562685,node,Benmoussa GYN,,doctors,,,,,36.7047751,3.0933623,OpenStreetMap,2026-11-24T17:08:12.730184+00:00
+6215630385,node,Bouhalissa GAS,,doctors,,,,,36.706658,3.0939225,OpenStreetMap,2026-11-24T17:08:12.730188+00:00
+6224490485,node,Lehamine Gen,,doctors,,,,,36.7296263,3.0768255,OpenStreetMap,2026-11-24T17:08:12.730192+00:00
+6224534585,node,Gastro,,doctors,,,,,36.728577,3.0816301,OpenStreetMap,2026-11-24T17:08:12.730196+00:00
+6224603012,node,Hafiz dermato,,doctors,,,,,36.7303967,3.0841619,OpenStreetMap,2026-11-24T17:08:12.730200+00:00
+6224603013,node,Tazairt Gynéco,,doctors,,,,,36.7304897,3.0846631,OpenStreetMap,2026-11-24T17:08:12.730204+00:00
+6224603196,node,Dermato,,doctors,,,,,36.7302543,3.0842891,OpenStreetMap,2026-11-24T17:08:12.730208+00:00
+6224755487,node,Ped bouzid . Gyn belhadj,,doctors,,,,,36.7312722,3.0866199,OpenStreetMap,2026-11-24T17:08:12.730213+00:00
+6224755488,node,Benmerzoug gynéco,,doctors,,,,,36.7324467,3.0865205,OpenStreetMap,2026-11-24T17:08:12.730217+00:00
+6225020485,node,Dermato ( ferme a 15h),,doctors,,,,,36.7330963,3.0875493,OpenStreetMap,2026-11-24T17:08:12.730221+00:00
+6226645285,node,Tahi Gas. Altubor der,,doctors,,,,,36.7261678,3.0875616,OpenStreetMap,2026-11-24T17:08:12.730225+00:00
+6226801188,node,Djazia gyneco,,clinic,,,,,36.7226509,3.0882056,OpenStreetMap,2026-11-24T17:08:12.730242+00:00
+6227212687,node,Hasnaoui pédiatre,,doctors,,,,,36.7273937,3.0954558,OpenStreetMap,2026-11-24T17:08:12.730247+00:00
+6227275385,node,Gynécologue,,doctors,,,,,36.7281254,3.0974636,OpenStreetMap,2026-11-24T17:08:12.730251+00:00
+6227496886,node,ROTABY gyneco,,clinic,,,,,36.7277392,3.0903962,OpenStreetMap,2026-11-24T17:08:12.730255+00:00
+6229003086,node,Selmane Gen,,doctors,,,,,36.7262002,3.0737156,OpenStreetMap,2026-11-24T17:08:12.730260+00:00
+6229010585,node,,paediatrics,doctors,,,القبة,,36.7259065,3.074614,OpenStreetMap,2026-11-24T17:08:12.730264+00:00
+6229042986,node,Boukercha gastro,,doctors,,,,,36.7281807,3.066452,OpenStreetMap,2026-11-24T17:08:12.730269+00:00
+6229064585,node,Allaoua Gyn,,doctors,,,,,36.728658,3.0679722,OpenStreetMap,2026-11-24T17:08:12.730273+00:00
+6229065685,node,Ayt Malek gynéco,,doctors,,,,,36.7282793,3.0672851,OpenStreetMap,2026-11-24T17:08:12.730281+00:00
+6229096504,node,Asloune interniste,,doctors,,,,,36.7272415,3.0649433,OpenStreetMap,2026-11-24T17:08:12.730285+00:00
+6229334785,node,Fekar + saadaoui internistes,,doctors,,,,,36.7294246,3.0657515,OpenStreetMap,2026-11-24T17:08:12.730290+00:00
+6231998289,node,LADJROUD int ( 13-18h),,doctors,,,,,36.721051,3.0948425,OpenStreetMap,2026-11-24T17:08:12.730294+00:00
+6232599685,node,Ait idris gynécologue,,doctors,,,,,36.7299552,3.0934114,OpenStreetMap,2026-11-24T17:08:12.730298+00:00
+6232669685,node,Bénefissa Gynécologue,,doctors,,,,,36.7309952,3.0895218,OpenStreetMap,2026-11-24T17:08:12.730302+00:00
+6246886814,node,,,doctors,0541814705,Lotissement des jeunes aveugles,,,36.7120257,2.9958843,OpenStreetMap,2026-11-24T17:08:12.730306+00:00
+6249843755,node,Médecin pédiatre aucun,,doctors,023820940,,,,36.7291359,3.1523647,OpenStreetMap,2026-11-24T17:08:12.730310+00:00
+6255318386,node,Benmansour Gen,,doctors,,,,,36.7338882,3.0656933,OpenStreetMap,2026-11-24T17:08:12.730314+00:00
+6255329188,node,Abdehlak mahyouz Gun,,doctors,,,,,36.7342632,3.0645996,OpenStreetMap,2026-11-24T17:08:12.730318+00:00
+6255334985,node,Laihem Gen,,doctors,,,,,36.7340111,3.0653267,OpenStreetMap,2026-11-24T17:08:12.730322+00:00
+6255379488,node,Hebili Gen,,doctors,,,,,36.736602,3.0660807,OpenStreetMap,2026-11-24T17:08:12.730326+00:00
+6255612387,node,Hamouda Gyneco,,doctors,,,,,36.7347859,3.0765733,OpenStreetMap,2026-11-24T17:08:12.730340+00:00
+6255613486,node,Hamel interniste,,doctors,,,,,36.734335,3.0761125,OpenStreetMap,2026-11-24T17:08:12.730344+00:00
+6255613487,node,Daoud amina Gen,,doctors,,,,,36.734024,3.0759402,OpenStreetMap,2026-11-24T17:08:12.730349+00:00
+6257315391,node,Gourari A. Pédiatre,,doctors,,,,,36.7137554,3.1176,OpenStreetMap,2026-11-24T17:08:12.730353+00:00
+6257332885,node,Ifrah Gen,,doctors,,,,,36.7145083,3.117396,OpenStreetMap,2026-11-24T17:08:12.730362+00:00
+6257332886,node,Pédiatre,,doctors,,,,,36.7142233,3.1175249,OpenStreetMap,2026-11-24T17:08:12.730367+00:00
+6257458285,node,Adjal.A Gen,,doctors,,,,,36.7127095,3.1138232,OpenStreetMap,2026-11-24T17:08:12.730371+00:00
+6257775586,node,Kabeche pédiatre,,doctors,,,,,36.7209666,3.1158174,OpenStreetMap,2026-11-24T17:08:12.730375+00:00
+6257776786,node,Polyclinique Bourouba,,clinic,,,,,36.7146126,3.1138532,OpenStreetMap,2026-11-24T17:08:12.730379+00:00
+6257922885,node,Amokrane pédiatre,,doctors,,,,,36.7206726,3.1181894,OpenStreetMap,2026-11-24T17:08:12.730383+00:00
+6257925186,node,Sayoud safia MGG,,doctors,,,,,36.7207967,3.1173441,OpenStreetMap,2026-11-24T17:08:12.730388+00:00
+6259290586,node,Hassaine m Gastro.,,doctors,,,,,36.71653,3.1106201,OpenStreetMap,2026-11-24T17:08:12.730392+00:00
+6259300285,node,,,doctors,,,,,36.7168033,3.1110391,OpenStreetMap,2026-11-24T17:08:12.730410+00:00
+6259354285,node,Belblidia Amel,,doctors,,,,,36.7170338,3.1132203,OpenStreetMap,2026-11-24T17:08:12.730421+00:00
+6259408898,node,Bouhalissa dermato,,doctors,,,,,36.7168896,3.1133777,OpenStreetMap,2026-11-24T17:08:12.730426+00:00
+6259479585,node,Siagh Gen,,doctors,,,,,36.7197059,3.1143652,OpenStreetMap,2026-11-24T17:08:12.730431+00:00
+6259595190,node,Dermato,,doctors,,,,,36.7195646,3.111284,OpenStreetMap,2026-11-24T17:08:12.730435+00:00
+6259641586,node,Khlafa Gynécologue,,doctors,,,,,36.7188478,3.1101813,OpenStreetMap,2026-11-24T17:08:12.730440+00:00
+6259677085,node,Kadid lila gynécologue,,doctors,,,,,36.7183022,3.1112836,OpenStreetMap,2026-11-24T17:08:12.730444+00:00
+6259842994,node,Bengougam gynécologue,,doctors,,,,,36.720316,3.1108198,OpenStreetMap,2026-11-24T17:08:12.730449+00:00
+6259850885,node,Ould khaoua interniste,,doctors,,,,,36.7199022,3.1099822,OpenStreetMap,2026-11-24T17:08:12.730453+00:00
+6261245185,node,Abderrahmane Bz Pédiatre 10-15h,,doctors,,,,,36.7170983,3.107864,OpenStreetMap,2026-11-24T17:08:12.730457+00:00
+6261261486,node,Asselah azouz gyn ( 9-12h),,doctors,,,,,36.7178835,3.1131653,OpenStreetMap,2026-11-24T17:08:12.730461+00:00
+6261280988,node,Aitsaid m Gen,,doctors,,,,,36.7219889,3.1128006,OpenStreetMap,2026-11-24T17:08:12.730466+00:00
+6261390186,node,OUARAB K Gen,,doctors,,,,,36.7222872,3.113108,OpenStreetMap,2026-11-24T17:08:12.730470+00:00
+6261422585,node,Teibi k Gynécologue,,doctors,,,,,36.7234015,3.1139384,OpenStreetMap,2026-11-24T17:08:12.730474+00:00
+6261587785,node,Ariouet salah Pédiatre,,doctors,,,,,36.72209,3.1178405,OpenStreetMap,2026-11-24T17:08:12.730479+00:00
+6261786087,node,Belkorichi gynécologue,,doctors,,,,,36.7246284,3.1142323,OpenStreetMap,2026-11-24T17:08:12.730483+00:00
+6261791086,node,Mouri L Dermato,,doctors,,,,,36.7235384,3.1161523,OpenStreetMap,2026-11-24T17:08:12.730500+00:00
+6261830285,node,Abdich.Abed Gen,,doctors,,,,,36.7249251,3.1132701,OpenStreetMap,2026-11-24T17:08:12.730505+00:00
+6263230885,node,Abdmeziem gastro,,doctors,,,,,36.7248469,3.1158605,OpenStreetMap,2026-11-24T17:08:12.730509+00:00
+6263230886,node,Internist.,,doctors,,,,,36.7244227,3.1165572,OpenStreetMap,2026-11-24T17:08:12.730513+00:00
+6263316486,node,REMANA Gen,,doctors,,,,,36.7241794,3.1167477,OpenStreetMap,2026-11-24T17:08:12.730517+00:00
+6263316487,node,Chala fedaoui Gynéco,,doctors,,,,,36.7236389,3.11753,OpenStreetMap,2026-11-24T17:08:12.730522+00:00
+6263316488,node,Gynéco,,doctors,,,,,36.7240513,3.1169482,OpenStreetMap,2026-11-24T17:08:12.730526+00:00
+6263329985,node,Lemari med Pédiatre,,doctors,,,,,36.7238853,3.1167773,OpenStreetMap,2026-11-24T17:08:12.730530+00:00
+6263358487,node,MESRANI Pédiatre,,doctors,,,,,36.7223231,3.1170296,OpenStreetMap,2026-11-24T17:08:12.730535+00:00
+6263358488,node,Tahmi gastro,,doctors,,,,,36.7224562,3.1168307,OpenStreetMap,2026-11-24T17:08:12.730539+00:00
+6263358489,node,Amara Gyneco,,doctors,,,,,36.7228224,3.1162608,OpenStreetMap,2026-11-24T17:08:12.730543+00:00
+6263370093,node,Mahtali gyneco,,doctors,,,,,36.7217619,3.117142,OpenStreetMap,2026-11-24T17:08:12.730547+00:00
+6263548786,node,Benour m Gen,,doctors,,,,,36.7215624,3.116019,OpenStreetMap,2026-11-24T17:08:12.730551+00:00
+6283884385,node,Mehtali gynécologue,,doctors,,,,,36.7219057,3.1173869,OpenStreetMap,2026-11-24T17:08:12.730555+00:00
+6285496985,node,Abdelaoui gen,,doctors,,,,,36.720853,3.1253971,OpenStreetMap,2026-11-24T17:08:12.730559+00:00
+6285555686,node,Sadou gynéco,,doctors,,,,,36.7255806,3.1243905,OpenStreetMap,2026-11-24T17:08:12.730563+00:00
+6285677085,node,Benzadi pédiatre,,doctors,,,,,36.7237497,3.1281905,OpenStreetMap,2026-11-24T17:08:12.730567+00:00
+6285677086,node,Hamadouche Gen,,doctors,,,,,36.7237927,3.1277457,OpenStreetMap,2026-11-24T17:08:12.730571+00:00
+6288055685,node,Rahel Gen,,doctors,,,,,36.73455,3.1110149,OpenStreetMap,2026-11-24T17:08:12.730575+00:00
+6288108985,node,Lahrani gynéco,,doctors,,,,,36.7343889,3.1106938,OpenStreetMap,2026-11-24T17:08:12.730580+00:00
+6288125985,node,Oulmi nora Gen,,doctors,,,,,36.7338341,3.1111107,OpenStreetMap,2026-11-24T17:08:12.730584+00:00
+6288416485,node,Gynéco interniste,,doctors,,,,,36.7296268,3.111092,OpenStreetMap,2026-11-24T17:08:12.730588+00:00
+6288461985,node,,,clinic,,,,,36.7294881,3.1093301,OpenStreetMap,2026-11-24T17:08:12.730592+00:00
+6290659885,node,Lamrani demato,,doctors,,,,,36.7364335,3.1024231,OpenStreetMap,2026-11-24T17:08:12.730596+00:00
+6290666985,node,Berkan atek gastro,,doctors,,,,,36.7375044,3.1024502,OpenStreetMap,2026-11-24T17:08:12.730603+00:00
+6290694986,node,Acheli gynéco,,doctors,,,,,36.7395151,3.0996798,OpenStreetMap,2026-11-24T17:08:12.730607+00:00
+6290719985,node,Zemouri Gen,,doctors,,,,,36.7412701,3.0986864,OpenStreetMap,2026-11-24T17:08:12.730611+00:00
+6290815985,node,Zerizer pédiatre,,doctors,,,,,36.7413455,3.0974536,OpenStreetMap,2026-11-24T17:08:12.730616+00:00
+6290816085,node,Ait idir Gynéco,,doctors,,,,,36.7431756,3.0956814,OpenStreetMap,2026-11-24T17:08:12.730620+00:00
+6291119686,node,طبيب عام مفوض,general,doctors,,,حسين داي,,36.7345228,3.0980998,OpenStreetMap,2026-11-24T17:08:12.730625+00:00
+6291219685,node,Remana gynécologue,,doctors,,,,,36.7391541,3.0943926,OpenStreetMap,2026-11-24T17:08:12.730629+00:00
+6291262985,node,Chabi gastro,,doctors,,,,,36.7393735,3.0944804,OpenStreetMap,2026-11-24T17:08:12.730633+00:00
+6292650485,node,Kellal pédiatre,,doctors,,,,,36.7423252,3.0995354,OpenStreetMap,2026-11-24T17:08:12.730637+00:00
+6292652785,node,Krim Gen,,doctors,,,,,36.7424108,3.0993603,OpenStreetMap,2026-11-24T17:08:12.730641+00:00
+6292653785,node,Bengharbia gynéco,,doctors,,,,,36.7424542,3.0992482,OpenStreetMap,2026-11-24T17:08:12.730645+00:00
+6292672686,node,Guerriumi dermato,,doctors,,,,,36.7432716,3.0958911,OpenStreetMap,2026-11-24T17:08:12.730649+00:00
+6292677185,node,Benalouane Gen,,doctors,,,,,36.7447165,3.0939186,OpenStreetMap,2026-11-24T17:08:12.730654+00:00
+6292756385,node,Kellal pédiatre,,doctors,,,,,36.742609,3.0982324,OpenStreetMap,2026-11-24T17:08:12.730658+00:00
+6292787286,node,Amar khoja pédiatre,,doctors,,,,,36.7413067,3.0994499,OpenStreetMap,2026-11-24T17:08:12.730663+00:00
+6292796985,node,Kacher MGG,,doctors,,,,,36.7412217,3.0999527,OpenStreetMap,2026-11-24T17:08:12.730667+00:00
+6298631386,node,Debach safia Gen,,doctors,,,,,36.7745767,3.0424025,OpenStreetMap,2026-11-24T17:08:12.730677+00:00
+6298638885,node,Cheguettine pédiatrie,paediatrics,doctors,,,,,36.7741118,3.0423843,OpenStreetMap,2026-11-24T17:08:12.730681+00:00
+6298654285,node,Belouz Gynéco,,doctors,,,,,36.7725708,3.0400574,OpenStreetMap,2026-11-24T17:08:12.730686+00:00
+6351868185,node,Ardjoun Gynéco,,doctors,,,,,36.7086427,3.0843158,OpenStreetMap,2026-11-24T17:08:12.730690+00:00
+6352839885,node,Clinique médico chirurgicale,,clinic,,,,,36.7364996,3.0901837,OpenStreetMap,2026-11-24T17:08:12.730694+00:00
+6360170298,node,Cherfi gynéco,,doctors,,,,,36.6978061,3.0768572,OpenStreetMap,2026-11-24T17:08:12.730698+00:00
+6360170601,node,Djenassi gynéco,,doctors,,,,,36.6981537,3.0765652,OpenStreetMap,2026-11-24T17:08:12.730703+00:00
+6362241985,node,Brahmi gynéco,,doctors,,,,,36.7061569,3.0952581,OpenStreetMap,2026-11-24T17:08:12.730707+00:00
+6366953985,node,indexa apareils auditifs,,clinic,,,,,36.7352217,3.1754834,OpenStreetMap,2026-11-24T17:08:12.730711+00:00
+6373836985,node,Pediatre,,doctors,,,,,36.7261977,3.095967,OpenStreetMap,2026-11-24T17:08:12.730715+00:00
+6378015385,node,Lamara gynécologue,,doctors,,,,,36.7284927,3.0690314,OpenStreetMap,2026-11-24T17:08:12.730720+00:00
+6390296285,node,Ziani pédiatre,,doctors,,,,,36.7226283,3.1136388,OpenStreetMap,2026-11-24T17:08:12.730724+00:00
+6396230486,node,Pédiatre,,doctors,,,,,36.7311826,3.1085724,OpenStreetMap,2026-11-24T17:08:12.730728+00:00
+6397896887,node,Soufi généraliste,,doctors,,,,,36.7398291,3.0891058,OpenStreetMap,2026-11-24T17:08:12.730732+00:00
+6409887627,node,Professeur K.L. Ammar Ferhani,psychiatre,doctors,+213699 15 25 99,"cité Ain-allah,bâtiment 406 A 1er étage",Dély Brahim,,36.7495401,2.9888857,OpenStreetMap,2026-11-24T17:08:12.730737+00:00
+6412029985,node,Khefif djamel ped,,doctors,,,,,36.7048142,3.0776926,OpenStreetMap,2026-11-24T17:08:12.730742+00:00
+6437926081,node,Clinique Warda Abou,,clinic,+213 794849736,,,,36.742636,3.1773874,OpenStreetMap,2026-11-24T17:08:12.730747+00:00
+6442258940,node,عيادة النجاة,,clinic,,,المدنية,,36.7480105,3.0633033,OpenStreetMap,2026-11-24T17:08:12.730751+00:00
+6451510086,node,Chaoui farid gastro (Dim-Mar-Mer),,doctors,,,,,36.7350819,3.0838933,OpenStreetMap,2026-11-24T17:08:12.730756+00:00
+6454213185,node,Cherrouk gynéco,,doctors,,,,,36.7327016,3.0604936,OpenStreetMap,2026-11-24T17:08:12.730760+00:00
+6461462485,node,SADAT MGG,,doctors,,,,,36.7252879,3.0902802,OpenStreetMap,2026-11-24T17:08:12.730764+00:00
+6505759385,node,Sadeki صادقي طب الأمراض العقلية,,doctors,,,,,36.7694669,3.0542539,OpenStreetMap,2026-11-24T17:08:12.730769+00:00
+6516124885,node,,,doctors,023318318,Rue Boudjemaa Khalil,,,36.7413729,2.9993032,OpenStreetMap,2026-11-24T17:08:12.730773+00:00
+6522513204,node,,,doctors,,,,,36.7420541,3.0971936,OpenStreetMap,2026-11-24T17:08:12.730777+00:00
+6522513206,node,,,doctors,,,,,36.7358043,3.1011744,OpenStreetMap,2026-11-24T17:08:12.730782+00:00
+6533679286,node,,,doctors,,,,,36.7400649,3.0973789,OpenStreetMap,2026-11-24T17:08:12.730786+00:00
+6534795085,node,Gynéco BOUCHENAFA pediatre Mokhtari,,doctors,,,,,36.6913874,3.0704553,OpenStreetMap,2026-11-24T17:08:12.730791+00:00
+6534802685,node,Gyneco ABANE MENASRIA,,doctors,,,,,36.6908022,3.0731377,OpenStreetMap,2026-11-24T17:08:12.730795+00:00
+6541911286,node,Bouhalissa gyneco,,doctors,,,,,36.723609,3.1038762,OpenStreetMap,2026-11-24T17:08:12.730799+00:00
+6542390293,node,Docteur Boukhtouche,,doctors,,,,,36.7462885,3.0508858,OpenStreetMap,2026-11-24T17:08:12.730804+00:00
+6583140816,node,"Médecine esthétique, nutrition, acupuncture",,doctors,,,Ben Aknoun,,36.7610954,3.01303,OpenStreetMap,2026-11-24T17:08:12.730808+00:00
+6583140817,node,العلاج الطبيعي وإعادة التأهيل الوظيفي د. عزيزو,,doctors,,,,,36.7610094,3.0121455,OpenStreetMap,2026-11-24T17:08:12.730875+00:00
+6583140819,node,عيادة شهرزاد,,clinic,+213 21 36 85 57,Lot Allioua Fodil,Cheraga,,36.761379,2.9504487,OpenStreetMap,2026-11-24T17:08:12.730913+00:00
+6583140820,node,Cardiologue Docteur Amour et Docteur Boumahraz,,doctors,,,,,36.7623583,2.9513345,OpenStreetMap,2026-11-24T17:08:12.730918+00:00
+6592085687,node,Dr TATA,,clinic,,,,,36.7089874,3.0034602,OpenStreetMap,2026-11-24T17:08:12.730923+00:00
+6637058689,node,Dr.Dahmani médecine interne,,doctors,,,,,36.7845331,3.249088,OpenStreetMap,2026-11-24T17:08:12.730927+00:00
+6675238584,node,Clinique des Beaux Arts,,clinic,,,,,36.7621777,3.0436358,OpenStreetMap,2026-11-24T17:08:12.730932+00:00
+6676085194,node,Centre de soins,,clinic,,,,,36.762531,3.0420223,OpenStreetMap,2026-11-24T17:08:12.730936+00:00
+6722844785,node,Clinique Dentaire Hydra,,clinic,,,,,36.7410665,3.0376392,OpenStreetMap,2026-11-24T17:08:12.730940+00:00
+6795540591,node,العيادة المتعددة الخدمات,,clinic,,,,,36.8092521,3.25221,OpenStreetMap,2026-11-24T17:08:12.730944+00:00
+6795541390,node,المركز الصحي الجزائر شاطئ,,clinic,,,,,36.7863642,3.2369518,OpenStreetMap,2026-11-24T17:08:12.730965+00:00
+6805305386,node,بن سلامة محمد رشيد طبيب العظام,,clinic,,,القبة,,36.7342335,3.0652825,OpenStreetMap,2026-11-24T17:08:12.730970+00:00
+6860266109,node,,,doctors,,,,,36.8119747,2.9820741,OpenStreetMap,2026-11-24T17:08:12.730974+00:00
+6860312795,node,Clinique générale,,clinic,,,,,36.7384364,2.9508673,OpenStreetMap,2026-11-24T17:08:12.730979+00:00
+6860626385,node,Hémorroïde,,doctors,,,,,36.6499399,3.1768764,OpenStreetMap,2026-11-24T17:08:12.730983+00:00
+6863466085,node,"الحكيم: مدور: جراحة الفم، الفك , الوجه و الرقبة",,doctors,+213675527485,boulevard Ibrahim HADJRÈS (arrêt de bus kherrouba. face à hôpital),,https://www.facebook.com/meddour.comfc/,36.7795785,2.9773612,OpenStreetMap,2026-11-24T17:08:12.730988+00:00
+6909403697,node,Gynécologue,,clinic,,,,,36.7374262,3.2021955,OpenStreetMap,2026-11-24T17:08:12.730993+00:00
+6972916106,node,Cabinet médical de néphrologie & échographie rénale (Dr. L. BENACHOUR),nephrology;nephrologie,doctors,,"cité 488 logs, Bt 20A",Bachdjerrah,,36.7175123,3.1087583,OpenStreetMap,2026-11-24T17:08:12.730997+00:00
+6990502486,node,Ophtalmologue diar essaada,,clinic,,,,,36.743447,3.0590844,OpenStreetMap,2026-11-24T17:08:12.731005+00:00
+7054078286,node,Sebala fruit,,doctors,,,,,36.723056,3.0134429,OpenStreetMap,2026-11-24T17:08:12.731009+00:00
+7144705083,node,"Dr, R.NASRI",,doctors,0699287927,,,,36.7116282,3.3368289,OpenStreetMap,2026-11-24T17:08:12.731013+00:00
+7183581385,node,التوفيق,,clinic,,,,,36.7094216,3.0591038,OpenStreetMap,2026-11-24T17:08:12.731018+00:00
+7219132485,node,Docteur bourenan gynécologue,,clinic,0697900413,,,,36.7395778,3.1860991,OpenStreetMap,2026-11-24T17:08:12.731022+00:00
+7232691685,node,,,doctors,0555179705,Cité du 20 Aout,,,36.7372282,3.0005912,OpenStreetMap,2026-11-24T17:08:12.731050+00:00
+7307961586,node,الطبيب بوعلام نيقرو,,clinic,023776281,شارع موسى حمداش,حسين داي,,36.7398786,3.0995407,OpenStreetMap,2026-11-24T17:08:12.731058+00:00
+7363058285,node,Clinique Chirurgicale Ibn Sina,cardiac_surgery;cardiology;general;internal;orthodontics,clinic,023951717,La marsa,Ager,,36.8092589,3.2521999,OpenStreetMap,2026-11-24T17:08:12.731064+00:00
+7442778871,node,طبيبة محلفة الهامل,general,doctors,,,بوروبة,,36.7221776,3.1236907,OpenStreetMap,2026-11-24T17:08:12.731069+00:00
+7552971485,node,د.لرجان.ك جراحة العظام و الكسور جراحة اليد,,doctors,0540899471,498 logts,,,36.72188,3.175531,OpenStreetMap,2026-11-24T17:08:12.731074+00:00
+7631857300,node,Docteur Youcef Guelile le Cardiologue,,doctors,021370780,,,,36.7643781,2.9604728,OpenStreetMap,2026-11-24T17:08:12.731079+00:00
+7640268585,node,Dr Chikh Baelhadj شيخ بلحاج طب عام,general,doctors,,,,,36.7542151,3.065181,OpenStreetMap,2026-11-24T17:08:12.731083+00:00
+7648784190,node,بن مايزة طب القلب,,doctors,,,,,36.7344794,3.0781283,OpenStreetMap,2026-11-24T17:08:12.731088+00:00
+7648831185,node,عيساني طب القلب,,doctors,,,,,36.7342266,3.0678796,OpenStreetMap,2026-11-24T17:08:12.731092+00:00
+7660403386,node,د. لطرش طب القلب,cardiology,doctors,,,,,36.7404529,3.0849761,OpenStreetMap,2026-11-24T17:08:12.731096+00:00
+7660403387,node,د. متيحة طب القلب,cardiology,doctors,,,,,36.7403864,3.0850734,OpenStreetMap,2026-11-24T17:08:12.731101+00:00
+7971782486,node,طبيبة النساء والتوليد,gynaecology,doctors,,"Cité 527 logement AADL batiment 3,RDC, El Achour",,,36.7340775,2.9937781,OpenStreetMap,2026-11-24T17:08:12.731106+00:00
+8065680552,node,Alwiya clinique,,clinic,,,,,36.6404761,2.9924574,OpenStreetMap,2026-11-24T17:08:12.731111+00:00
+8462936917,node,مخبر التحاليل الطبية طرزالي,,clinic,+213672490414,,,,36.652485,3.1472007,OpenStreetMap,2026-11-24T17:08:12.731115+00:00
+8518857617,node,,,clinic,,,,,36.7325752,3.0393725,OpenStreetMap,2026-11-24T17:08:12.731120+00:00
+8614172824,node,Cabinet cardiologie,,doctors,,,,,36.7282749,3.0692505,OpenStreetMap,2026-11-24T17:08:12.731124+00:00
+8904023079,node,EPSP Les Annassers,vaccination;covid19,clinic,,,,,36.7353609,3.0772805,OpenStreetMap,2026-11-24T17:08:12.731128+00:00
+8905006066,node,Chapiteau de vaccination 1er Mai,vaccination;covid19,clinic,,,,,36.761523,3.0563979,OpenStreetMap,2026-11-24T17:08:12.731132+00:00
+8955017181,node,Chapiteaux de vaccination Rouiba,vaccination;covid19,clinic,,,,,36.7386513,3.2853794,OpenStreetMap,2026-11-24T17:08:12.731136+00:00
+9357170766,node,Dr Djeddaoui Nacer,,doctors,0772 27 03 74,cité 200 lgts,,,36.6677481,3.1431912,OpenStreetMap,2026-11-24T17:08:12.731140+00:00
+9369373343,node,Clinique Du Val ( Accouchement ),,clinic,,,,,36.7667941,3.0273094,OpenStreetMap,2026-11-24T17:08:12.731145+00:00
+9455252258,node,,orthopedics;orthopédiste,doctors,,,,,36.7043082,3.0751177,OpenStreetMap,2026-11-24T17:08:12.731149+00:00
+9456517004,node,imagerie,,clinic,,,,,36.7668131,2.9617554,OpenStreetMap,2026-11-24T17:08:12.731153+00:00
+9625681017,node,Dr ait belkacem,,clinic,023557451,,,,36.7502274,3.0592845,OpenStreetMap,2026-11-24T17:08:12.731157+00:00
+10269365276,node,De kedib,,doctors,,,,,36.694435,2.981251,OpenStreetMap,2026-11-24T17:08:12.731161+00:00
+10271071029,node,Cabinet de rhumatologie,,doctors,0664635333,,,,36.700638,3.0206397,OpenStreetMap,2026-11-24T17:08:12.731165+00:00
+10271095023,node,,,doctors,,,,,36.7006672,3.0207682,OpenStreetMap,2026-11-24T17:08:12.731170+00:00
+10272589168,node,Clinique Khentouche,,clinic,023 87 27 27,,,https://www.cliniquekhentouche.com/,36.7869729,3.2452728,OpenStreetMap,2026-11-24T17:08:12.731192+00:00
+10289629209,node,Kettani,,doctors,,,,,36.7921529,3.057483,OpenStreetMap,2026-11-24T17:08:12.731197+00:00
+10289631909,node,ophtalmologue Tali,ophthalmology,doctors,,,,,36.792137,3.0572945,OpenStreetMap,2026-11-24T17:08:12.731201+00:00
+10316525609,node,grigahcene,,doctors,,,,,36.6584054,3.1006738,OpenStreetMap,2026-11-24T17:08:12.731205+00:00
+10316591109,node,Dr kacimi El hassani,,doctors,,,,,36.6600286,3.1001054,OpenStreetMap,2026-11-24T17:08:12.731218+00:00
+10316736309,node,clinique chiffa,,clinic,,,,,36.665446,3.0952605,OpenStreetMap,2026-11-24T17:08:12.731222+00:00
+10554286510,node,pédiatre benziada,,doctors,,,,,36.730413,3.1866799,OpenStreetMap,2026-11-24T17:08:12.731227+00:00
+10652459105,node,Dermatologue Dr BENALI,dermatology,doctors,0776316366,Cité Kartala Extension,Baba Hassen,http:// 0776 31 63 66 https://maps.app.goo.gl/9tthVnpJAXyrw2JM6,36.6994306,2.9777004,OpenStreetMap,2026-11-24T17:08:12.731231+00:00
+10811863267,node,,paediatrics,doctors,,,,,36.6809068,3.2575981,OpenStreetMap,2026-11-24T17:08:12.731236+00:00
+10826748236,node,CPMC anex,,clinic,,,,,36.7598841,3.0600062,OpenStreetMap,2026-11-24T17:08:12.731240+00:00
+10881536705,node,,,doctors,,,,,36.6969214,2.971569,OpenStreetMap,2026-11-24T17:08:12.731245+00:00
+10886494699,node,Cabinet de cardiologie Dr Hachemi.N,,doctors,,,,,36.778283,3.2601992,OpenStreetMap,2026-11-24T17:08:12.731250+00:00
+10964384707,node,,,doctors,,,,,36.7967444,3.0003746,OpenStreetMap,2026-11-24T17:08:12.731254+00:00
+10967332257,node,Gynéco BELLATACHE Eps AID,,doctors,,,,,36.7959832,2.9870776,OpenStreetMap,2026-11-24T17:08:12.731259+00:00
+11075350905,node,سبيل الشفاء,,doctors,0790922909,,,,36.6733893,3.1023767,OpenStreetMap,2026-11-24T17:08:12.731264+00:00
+11118202973,node,معهد العناية الجسدية لكل الأمراض المزمنة,,clinic,,,,,36.6825732,3.3393382,OpenStreetMap,2026-11-24T17:08:12.731268+00:00
+11172170377,node,,,clinic,,,,,36.7756151,3.254647,OpenStreetMap,2026-11-24T17:08:12.731272+00:00
+11176489310,node,,,doctors,,,,,36.7872895,3.2497403,OpenStreetMap,2026-11-24T17:08:12.731276+00:00
+11185783017,node,Docteur BOURAS,,doctors,,,,,36.7806106,3.2504913,OpenStreetMap,2026-11-24T17:08:12.731281+00:00
+11185783020,node,Cabinet médical de traumatologie et d'orthopédie du Dr mezaourou,,doctors,,,,,36.7841788,3.2490563,OpenStreetMap,2026-11-24T17:08:12.731285+00:00
+11185879868,node,DR.ABDELLAOUI,,doctors,,,,,36.7785438,3.2598852,OpenStreetMap,2026-11-24T17:08:12.731289+00:00
+11247650930,node,Laboratoire d hématologie Dr Laouamen,,doctors,,,,,36.7206497,3.1770613,OpenStreetMap,2026-11-24T17:08:12.731293+00:00
+11411665170,node,الدكتور خالدي، دكتور أمراض الصدر و ضيق التنفس,,doctors,0556 52 30 92,,,,36.7750583,3.3048171,OpenStreetMap,2026-11-24T17:08:12.731298+00:00
+11652540119,node,Dr Abdelkader,general,doctors,,,,,36.7187993,3.1289168,OpenStreetMap,2026-11-24T17:08:12.731302+00:00
+11948841369,node,,,clinic,,,,,36.6551777,3.1465845,OpenStreetMap,2026-11-24T17:08:12.731306+00:00
+12430887502,node,,,clinic,023 62 88 62,,,,36.7289039,3.0750999,OpenStreetMap,2026-11-24T17:08:12.731311+00:00
+12466846861,node,طب النساء,,doctors,,,,,36.778345,3.248502,OpenStreetMap,2026-11-24T17:08:12.731315+00:00
+12645487404,node,Docteur Izri Stiti,pulmonology;allergology,doctors,,Boulevard Ouaked Ahmed,Chéraga,,36.7673653,2.9584542,OpenStreetMap,2026-11-24T17:08:12.731320+00:00
+12692943449,node,Centre des Urgences Pédiatriques de Diar El Afia,paediatrics,doctors,,,,,36.7201363,3.1246289,OpenStreetMap,2026-11-24T17:08:12.731325+00:00
+12912386452,node,عيادة متعددة الخدمات,general,clinic,,,,,36.705308,3.0816071,OpenStreetMap,2026-11-24T17:08:12.731329+00:00
+13145057901,node,,,doctors,0540664923,,,,36.6583707,3.1519978,OpenStreetMap,2026-11-24T17:08:12.731334+00:00
+13294153314,node,,,doctors,,,,,36.7796456,3.250953,OpenStreetMap,2026-11-24T17:08:12.731338+00:00
+13296804905,node,Gynécologue,,doctors,,,,,36.7799057,3.2522309,OpenStreetMap,2026-11-24T17:08:12.731343+00:00
+13338617305,node,Dispensaire de la police,,clinic,,,,,36.797075,3.2814958,OpenStreetMap,2026-11-24T17:08:12.731347+00:00
+13388825201,node,,,doctors,,Cité 200 Logts,,,36.7405243,2.9946805,OpenStreetMap,2026-11-24T17:08:12.731351+00:00
+13504135331,node,,,doctors,,,,,36.7858192,3.2376809,OpenStreetMap,2026-11-24T17:08:12.731356+00:00
+13543689201,node,الدكتورة ف. درافلي زحاف. الطب الداخلي و القلب,,doctors,0557 4563443,,,,36.6571377,3.1514741,OpenStreetMap,2026-11-24T17:08:12.731374+00:00
+13634858486,node,Neurologue,,doctors,,,,,36.7821226,3.2496587,OpenStreetMap,2026-11-24T17:08:12.731378+00:00
+14102755675,node,CMS El Hamma Sosc Sonelgaz (Fosc) مركز طبي اجتماعي الحامة سوسك سونلغاز (فوسك),,clinic,021 67 77 89,"07, Fernane Hanafi Road",Hamma,https://www.sosc-sonelgaz.dz,36.7470946,3.0817415,OpenStreetMap,2026-11-24T17:08:12.731383+00:00
+14130606472,node,CMS Algeria North Sosc Sonelgaz (Fosc) مركز طبي اجتماعي سوسك سونلغاز (فوسك),,clinic,,Amara Rachid Boulevard,Algiers,https://www.sosc-sonelgaz.dz,36.7874833,3.0644268,OpenStreetMap,2026-11-24T17:08:12.731388+00:00
+14130606483,node,Social Medical Center CMS Sosc Sonelgaz (Fosc) مركز طبي اجتماعي سوسك سونلغاز (فوسك),,clinic,021 67 77 89,"07, Fernane Hanafi Road",Hamma,https://www.sosc-sonelgaz.dz,36.7483215,3.0814095,OpenStreetMap,2026-11-24T17:08:12.731400+00:00
+14130606484,node,Social Medical Center CMS Sosc Sonelgaz (Fosc) مركز طبي اجتماعي سوسك سونلغاز (فوسك),,clinic,021 67 77 89,"07, Fernane Hanafi Road",Hamma,https://www.sosc-sonelgaz.dz,36.7480388,3.0814843,OpenStreetMap,2026-11-24T17:08:12.731406+00:00
+14130606485,node,Social Medical Center CMS Sosc Sonelgaz (Fosc) مركز طبي اجتماعي سوسك سونلغاز (فوسك),,clinic,021 67 77 89,"07, Fernane Hanafi Road",Hamma,https://www.sosc-sonelgaz.dz,36.7477876,3.0816678,OpenStreetMap,2026-11-24T17:08:12.731411+00:00
+14130978866,node,CMS Gué de Constantine Sosc Sonelgaz (Fosc) مركز طبي اجتماعي جسر قسنطينة سوسك سونلغاز (فوسك),,clinic,,R W 14 ط و,Gué de Constantine,https://www.sosc-sonelgaz.dz,36.7070293,3.0956481,OpenStreetMap,2026-11-24T17:08:12.731415+00:00
+14138345502,node,,,doctors,,,,,36.7793949,3.0551515,OpenStreetMap,2026-11-24T17:08:12.731420+00:00
+14145467610,node,,general,doctors,,,,,36.7673532,3.0077212,OpenStreetMap,2026-11-24T17:08:12.731424+00:00
+82574191,way,,,clinic,,,,,36.7353501,3.077267,OpenStreetMap,2026-11-24T17:08:12.731430+00:00
+102159775,way,Clinique Chifaa,,clinic,,,,,36.7447131,3.0234058,OpenStreetMap,2026-11-24T17:08:12.731436+00:00
+160378857,way,Clinique ophtalmologique Loiola,,clinic,,,,,36.6955561,2.9644304,OpenStreetMap,2026-11-24T17:08:12.731441+00:00
+195993250,way,,,clinic,,,,,36.7211267,3.1946369,OpenStreetMap,2026-11-24T17:08:12.731446+00:00
+210990027,way,Polyclinique Garidi 2,,clinic,,,,,36.7327098,3.0615849,OpenStreetMap,2026-11-24T17:08:12.731451+00:00
+216282117,way,Gynecologie,gynaecology,doctors,,,,,36.7357601,3.1055094,OpenStreetMap,2026-11-24T17:08:12.731455+00:00
+216282118,way,Imagerie,diagnostic_radiology,doctors,,,,,36.7360241,3.1061349,OpenStreetMap,2026-11-24T17:08:12.731460+00:00
+216282120,way,Cardiologie,cardiology,doctors,,,,,36.7361508,3.1055784,OpenStreetMap,2026-11-24T17:08:12.731464+00:00
+216282121,way,Pédiaterie,paediatrics,doctors,,,,,36.7364163,3.105974,OpenStreetMap,2026-11-24T17:08:12.731469+00:00
+216282124,way,Néphrologie,nephrology,doctors,,,,,36.7362501,3.1049467,OpenStreetMap,2026-11-24T17:08:12.731474+00:00
+217504136,way,,vaccination;covid19,clinic,,,,,36.7648896,3.0173356,OpenStreetMap,2026-11-24T17:08:12.731479+00:00
+217603081,way,Clinique de Cardiologie Abderahmani Mohamed,cardiology,clinic,,,,,36.7343112,3.0527939,OpenStreetMap,2026-11-24T17:08:12.731483+00:00
+218189274,way,,,clinic,,,Bachdjarrah,,36.7197421,3.1128314,OpenStreetMap,2026-11-24T17:08:12.731488+00:00
+227220614,way,Polyclinique Ben Choubane,,clinic,,,,,36.7050631,3.2730702,OpenStreetMap,2026-11-24T17:08:12.731493+00:00
+227937793,way,,,clinic,,,,,36.714515,3.0013574,OpenStreetMap,2026-11-24T17:08:12.731497+00:00
+232396342,way,مستوصف سيدس يحيى,vaccination;covid19,clinic,,,,,36.7407495,3.0392358,OpenStreetMap,2026-11-24T17:08:12.731502+00:00
+240288819,way,Polyclinique les Vergers,,clinic,,,,,36.7269388,3.0515589,OpenStreetMap,2026-11-24T17:08:12.731507+00:00
+240439555,way,Centre Médico-Pedagogique pour Enfants Inadaptés Mentaux Mohamed Issiakhem,,clinic,,,Birkhadem,,36.7296141,3.0446376,OpenStreetMap,2026-11-24T17:08:12.731512+00:00
+241756425,way,ex CNMS -Clinique Cardiologie .Dr Maouche Mokrane,cardiology,clinic,,,,,36.7677874,3.00164,OpenStreetMap,2026-11-24T17:08:12.731528+00:00
+245080946,way,Polyclinique,,clinic,,,,,36.7004692,3.3010658,OpenStreetMap,2026-11-24T17:08:12.731533+00:00
+245174971,way,Polyclinique de Dergana,,clinic,,,,,36.7667016,3.2594793,OpenStreetMap,2026-11-24T17:08:12.731539+00:00
+253592970,way,Clinique Maternité,,clinic,,,El Harrach,,36.7203993,3.1473331,OpenStreetMap,2026-11-24T17:08:12.731543+00:00
+261517125,way,دار داء السكري,,clinic,,Rue Saïd Bouras,Bouzareah,,36.7909223,3.0159915,OpenStreetMap,2026-11-24T17:08:12.735265+00:00
+263638052,way,مصحة مانيون للشرطة,,clinic,,,,,36.7613386,3.0469351,OpenStreetMap,2026-11-24T17:08:12.735283+00:00
+266289616,way,Clinique Rabat Ezzaoueche,,clinic,,,,,36.5514089,3.0935021,OpenStreetMap,2026-11-24T17:08:12.735290+00:00
+266335603,way,DGSN SCAS,,clinic,,,,,36.7441313,2.9929892,OpenStreetMap,2026-11-24T17:08:12.735296+00:00
+273631712,way,Polyclinique Mahieddine,,clinic,,,,,36.7521342,3.0562259,OpenStreetMap,2026-11-24T17:08:12.735306+00:00
+273636206,way,Salle de soin Molière,,clinic,,,,,36.7635202,3.0567893,OpenStreetMap,2026-11-24T17:08:12.735311+00:00
+273638307,way,Maternité Naima نعيمة للولادة,,clinic,,,,,36.7519797,3.0594832,OpenStreetMap,2026-11-24T17:08:12.735316+00:00
+274707117,way,Clinique dentaire Aslaoui,,clinic,,,,,36.7368234,3.0508567,OpenStreetMap,2026-11-24T17:08:12.735321+00:00
+291563647,way,Polyclinique Beaulieu عيادة المكان الجميل,,clinic,,,وادي السمار,,36.7101963,3.1639702,OpenStreetMap,2026-11-24T17:08:12.735325+00:00
+297443531,way,Polyclinique Nafissa Hamoud,,clinic,,,,,36.7005953,3.0287642,OpenStreetMap,2026-11-24T17:08:12.735329+00:00
+298684557,way,,,clinic,,,,,36.768166,2.9575334,OpenStreetMap,2026-11-24T17:08:12.735334+00:00
+315875657,way,Polyclinique Alger plage,,clinic,,,,,36.7842371,3.2498557,OpenStreetMap,2026-11-24T17:08:12.735338+00:00
+315876996,way,Clinique de cardiologie Ibn Sina,cardiology,clinic,,,El Marsa,,36.8051209,3.2378368,OpenStreetMap,2026-11-24T17:08:12.735362+00:00
+319726557,way,Ben Merad OPGI,,clinic,,,,,36.7654835,3.2390296,OpenStreetMap,2026-11-24T17:08:12.735368+00:00
+323802168,way,Clinique El Ouard,,clinic,,,,,36.7412599,3.284384,OpenStreetMap,2026-11-24T17:08:12.735372+00:00
+341395391,way,Clinique nadjah,,clinic,,,,,36.7072378,3.0684752,OpenStreetMap,2026-11-24T17:08:12.735376+00:00
+342258978,way,,,clinic,,,,,36.7042519,3.0776898,OpenStreetMap,2026-11-24T17:08:12.735380+00:00
+343466470,way,polyclinique de la cité 08 mai 1945 (SORECAL),,clinic,,,,,36.7339559,3.192079,OpenStreetMap,2026-11-24T17:08:12.735385+00:00
+344834637,way,,otorhinolaryngology,clinic,,,حسين داي,,36.7365961,3.0959408,OpenStreetMap,2026-11-24T17:08:12.735389+00:00
+350900100,way,Polyclinique El Hamiz,,clinic,,Rue les Palmier Hamiz,Dar El Beïda,,36.7255658,3.2252861,OpenStreetMap,2026-11-24T17:08:12.735393+00:00
+352118405,way,Polynilinique Les Bananiers,,clinic,,,,,36.7308878,3.1658761,OpenStreetMap,2026-11-24T17:08:12.735398+00:00
+352155323,way,,,clinic,,,,,36.7189671,3.1769371,OpenStreetMap,2026-11-24T17:08:12.735402+00:00
+358211760,way,Clinique Reefak El Feth,,clinic,+213 5550807 49 Fax+213 21388822,Zone d'équipement A,Ouled Fayet,https://www.facebook.com/pages/Clinique-Reefak-el-Feth/235430316647352?sk=info&tab=page_info,36.7381509,2.9503851,OpenStreetMap,2026-11-24T17:08:12.735406+00:00
+360158257,way,EPSP Beau Fraisier (dispensaire),,clinic,,,,,36.7868523,3.0417197,OpenStreetMap,2026-11-24T17:08:12.735411+00:00
+365981085,way,EPSP Ben Omar,,clinic,,,,,36.7273733,3.0885917,OpenStreetMap,2026-11-24T17:08:12.735415+00:00
+372063497,way,,,clinic,,,,,36.7192063,3.176868,OpenStreetMap,2026-11-24T17:08:12.735419+00:00
+374433499,way,Clinique Ben Talha,,clinic,,,,,36.6485718,3.0811183,OpenStreetMap,2026-11-24T17:08:12.735423+00:00
+376072193,way,Laboratoire d'analyses médicales Ibn Sina,,doctors,+213 23 33 25 12,,,,36.7170618,3.0002036,OpenStreetMap,2026-11-24T17:08:12.735428+00:00
+394654233,way,Clinique de Bourouba,,clinic,,,,,36.7178562,3.1301549,OpenStreetMap,2026-11-24T17:08:12.735432+00:00
+398656229,way,,,clinic,,,مفتاح,,36.6166999,3.2166657,OpenStreetMap,2026-11-24T17:08:12.735436+00:00
+402146271,way,,,clinic,,,الرئيس حميدو,,36.8190326,3.0102922,OpenStreetMap,2026-11-24T17:08:12.735440+00:00
+406595201,way,Centre de santé Dalfa Mustapha,,clinic,,,,,36.5542426,3.1087072,OpenStreetMap,2026-11-24T17:08:12.735445+00:00
+420557894,way,Clinique Zighout Amine,,clinic,,,,,36.7864008,3.0260513,OpenStreetMap,2026-11-24T17:08:12.735449+00:00
+435232953,way,,,doctors,,,,,36.7293453,3.1266812,OpenStreetMap,2026-11-24T17:08:12.735454+00:00
+435406668,way,,,clinic,,,براقي,,36.6701159,3.0929414,OpenStreetMap,2026-11-24T17:08:12.735459+00:00
+435782947,way,Polyclinique 586 lgts مستوصف 586 مسكن,,clinic,,,,,36.6535738,3.0904483,OpenStreetMap,2026-11-24T17:08:12.735463+00:00
+438416430,way,Polyclinique Dabousi,,clinic,,,,,36.7314539,2.9985591,OpenStreetMap,2026-11-24T17:08:12.735467+00:00
+441257889,way,Polyclinique Djamel Boukanoune,,clinic,,,,,36.7860193,2.9667369,OpenStreetMap,2026-11-24T17:08:12.735471+00:00
+450623013,way,مركز بولوغين الطبي,,clinic,,,بولوغين,,36.8087157,3.0398355,OpenStreetMap,2026-11-24T17:08:12.735475+00:00
+484126182,way,Salle de soin Haouch Loukil,,clinic,,,,,36.6883586,2.9829771,OpenStreetMap,2026-11-24T17:08:12.735479+00:00
+527973184,way,,general,clinic,,,,,36.6933342,2.9731062,OpenStreetMap,2026-11-24T17:08:12.735484+00:00
+544201624,way,Polyclinique de Reghaïa,,clinic,,,,,36.741786,3.3416588,OpenStreetMap,2026-11-24T17:08:12.735488+00:00
+555308906,way,العيادة متعددة الخدمات,,clinic,,,الشراقة,,36.7603185,2.9643122,OpenStreetMap,2026-11-24T17:08:12.735492+00:00
+690020048,way,SCAS DGSN,,doctors,,,,,36.7218097,3.2062785,OpenStreetMap,2026-11-24T17:08:12.735497+00:00
+998314075,way,Clinique Diar-Saada,,clinic,,Rue Boumazouza Ahmed,,,36.7435302,3.0590294,OpenStreetMap,2026-11-24T17:08:12.735501+00:00
+1171564924,way,,,doctors,+213 213555 80 51 31,hai ali sadek 1,,,36.7590363,3.2365116,OpenStreetMap,2026-11-24T17:08:12.735505+00:00
+1171596316,way,قاعة العلاج - حي الصمايدية,general,clinic,,,,,36.6635018,3.2718057,OpenStreetMap,2026-11-24T17:08:12.735510+00:00
+1171640847,way,,,doctors,,cité El Amel n 11 B,,,36.7633149,2.9883596,OpenStreetMap,2026-11-24T17:08:12.735514+00:00
+1171645275,way,,,clinic,0561368411,,,http://www.tassilimedical.com,36.7685558,2.9706771,OpenStreetMap,2026-11-24T17:08:12.735519+00:00
+1171781048,way,Laboratoire d'analyse médicale Docteurs R. Mimoune et Messaid,,doctors,021386252,Rue Djadel Mohamed,Ouled Fayet,,36.7354385,2.9502492,OpenStreetMap,2026-11-24T17:08:12.735523+00:00
+1171810225,way,جلاتي طب عام,,doctors,,lot bardey,,,36.7904119,3.0144079,OpenStreetMap,2026-11-24T17:08:12.735528+00:00
+1171827477,way,مركز التشخيص الطبي للذاكرة,,clinic,021 79 78 33,Rue Boufatit Père et Fils,,,36.7668982,3.0272021,OpenStreetMap,2026-11-24T17:08:12.735532+00:00
+1171837881,way,,,clinic,,,,,36.7124527,3.210181,OpenStreetMap,2026-11-24T17:08:12.735546+00:00
+1171844805,way,,,clinic,024970100,Rue feham djillali,,,36.6490911,3.3325005,OpenStreetMap,2026-11-24T17:08:12.735552+00:00
+1171998839,way,عيادة متعددة الخدمات حي البدر,,clinic,,شارع باش جراح,,,36.7208965,3.1017471,OpenStreetMap,2026-11-24T17:08:12.735556+00:00
+1172032359,way,الطبيبة بننيني ث طب عام,,doctors,0021323300664,lot Abdelkader ouahrani,,,36.7367285,3.0002882,OpenStreetMap,2026-11-24T17:08:12.735560+00:00
+1172074942,way,Polyclinique,,clinic,,,Chebli,,36.5793197,3.0086012,OpenStreetMap,2026-11-24T17:08:12.735564+00:00
+1172846676,way,Centre de santé de proximité Krim Belkacem,,clinic,,,الجزائر,,36.7705561,3.0509079,OpenStreetMap,2026-11-24T17:08:12.735569+00:00
+1172854573,way,الدكتور ناصر بوزيداني,,doctors,,haouch mihoub,,,36.658953,3.0934711,OpenStreetMap,2026-11-24T17:08:12.735573+00:00
+1172857227,way,Dr LARIBI gynécologue,,doctors,,bentalha,,,36.6487419,3.0822987,OpenStreetMap,2026-11-24T17:08:12.735578+00:00
+1173899099,way,بوتوشانت طب الداخلي,,doctors,021555223,Rue des Frères Mokhtari,,,36.7157384,3.0558702,OpenStreetMap,2026-11-24T17:08:12.735582+00:00
+1173900570,way,عزيز طب الغذد والسكري,,doctors,,,المرادية,,36.7459246,3.0573169,OpenStreetMap,2026-11-24T17:08:12.735586+00:00
+1173925108,way,polyclinique d'el Kahla,,clinic,,,Birtouta,,36.6360715,3.0096639,OpenStreetMap,2026-11-24T17:08:12.735590+00:00
+1415710539,way,العيادة متعددة الخدمات - الشهيد ياهوني البشير,,clinic,,,,,36.747555,3.1962011,OpenStreetMap,2026-11-24T17:08:12.735595+00:00
